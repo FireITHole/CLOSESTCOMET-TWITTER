@@ -1,0 +1,1873 @@
+[22-07-2022]
+[14-31-08] (EVENT) NASA'S API : GATHERING DATA
+[14-31-09] (DATA) NASA'S API : {"des": "2022 OA", "orbit_id": "2", "jd": "2459786.023349818", "cd": "2022-Jul-25 12:34", "dist": "0.0128997094287434", "dist_min": "0.012838302251378", "dist_max": "0.0129611144121907", "v_rel": "10.5280119644433", "v_inf": "10.5083742342223", "t_sigma_f": "00:01", "h": "24.402", "diameter": null, "diameter_sigma": null}
+[DATA NAME DIST] : 2022 OA : 1929799
+[14-31-09] (EVENT) TWEET : CREATING TWEET'S TEXT
+[14-31-09] (DATA) TWEET'S TEXT : 🟢 L'astéroïde 2022 OA d'un diamètre non connu passe actuellement à 1,929,769km de la terre (soit 5.02 fois la distance terre-lune) à une vitesse de 10.53km/s (37901km/h). Cet objet spacial s'est éloigné de 10,000km depuis hier 🟢
+[14-31-09] (EVENT) PNG : CREATING PNG
+[14-31-09] (DATA) PNG : PNG './pngs/result_23-07-2022_14-31-08.png' CREATED
+[14-31-09] (EVENT) TWEET : POST INIT
+[14-31-09] (EVENT) TWEET : POST APPEND
+[14-31-09] (EVENT) TWEET : POST FINALIZE
+[14-31-10] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[23-07-2022]
+[23-57-38] (EVENT) NASA'S API : GATHERING DATA
+[23-57-38] (DATA) NASA'S API : {"des": "2022 OA", "orbit_id": "3", "jd": "2459786.023378294", "cd": "2022-Jul-25 12:34", "dist": "0.0128903418606417", "dist_min": "0.0128633473584692", "dist_max": "0.0129173359488264", "v_rel": "10.5202201940182", "v_inf": "10.5005535970179", "t_sigma_f": "< 00:01", "h": "24.605", "diameter": null, "diameter_sigma": null}
+[DATA NAME DIST] : 2022 OA : 1928368
+[23-57-38] (EVENT) TWEET : CREATING TWEET'S TEXT
+[23-57-38] (DATA) TWEET'S TEXT : 🟢 L'astéroïde 2022 OA d'un diamètre non connu passe actuellement à 1,928,368km de la terre (soit 5.02 fois la distance terre-lune) à une vitesse de 10.52km/s (37873km/h). Cet objet spacial s'est rapproché de 1,431km depuis hier 🟢
+[23-57-38] (EVENT) PNG : CREATING PNG
+[23-57-38] (DATA) PNG : PNG './pngs/result_23-07-2022_23-57-38.png' CREATED
+[23-57-38] (EVENT) TWEET : POST INIT
+[23-57-39] (EVENT) TWEET : POST APPEND
+[23-57-39] (EVENT) TWEET : POST FINALIZE
+[23-57-40] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[23-57-41] (EVENT) REPLY : REPLY POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[24-07-2022]
+[12-06-39] (EVENT) NASA'S API : GATHERING DATA
+[12-06-40] (DATA) NASA'S API : {"des": "2022 OA", "orbit_id": "3", "jd": "2459786.023378294", "cd": "2022-Jul-25 12:34", "dist": "0.0128903418606417", "dist_min": "0.0128633473584692", "dist_max": "0.0129173359488264", "v_rel": "10.5202201940182", "v_inf": "10.5005535970179", "t_sigma_f": "< 00:01", "h": "24.605", "diameter": null, "diameter_sigma": null}
+[DATA NAME DIST] : 2022 OA : 1928368
+[12-06-40] (EVENT) TWEET : CREATING TWEET'S TEXT
+[12-06-40] (DATA) TWEET'S TEXT : 🟢 L'astéroïde 2022 OA d'un diamètre non connu passe actuellement à 1,928,368km de la terre (soit 5.02 fois la distance terre-lune) à une vitesse de 10.52km/s (37873km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟢
+[12-06-40] (EVENT) PNG : CREATING PNG
+[12-06-40] (DATA) PNG : PNG './pngs/result_24-07-2022_12-06-39.png' CREATED
+[12-06-40] (EVENT) TWEET : POST INIT
+[12-06-40] (EVENT) TWEET : POST APPEND
+[12-06-40] (EVENT) TWEET : POST FINALIZE
+[12-06-41] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[12-06-42] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[25-07-2022]
+[12-00-02] (EVENT) NASA'S API : GATHERING DATA
+[12-00-16] (DATA) NASA'S API : {"des": "2022 OA", "orbit_id": "4", "jd": "2459786.023327367", "cd": "2022-Jul-25 12:34", "dist": "0.0128893230036132", "dist_min": "0.012862855402431", "dist_max": "0.0129157901994761", "v_rel": "10.5197221337039", "v_inf": "10.5000530477296", "t_sigma_f": "< 00:01", "h": "24.579", "diameter": null, "diameter_sigma": null}
+[DATA NAME DIST] : 2022 OA : 1928215
+[12-00-16] (EVENT) TWEET : CREATING TWEET'S TEXT
+[12-00-16] (DATA) TWEET'S TEXT : 🟢 L'#asteroide 2022 OA d'un diamètre non connu passe actuellement à 1,928,215km de la #terre (soit 5.02 fois la distance terre-lune) à une vitesse de 10.52km/s (37871km/h). Cet objet spacial s'est rapproché de 153km depuis hier 🟢
+[12-00-16] (EVENT) PNG : CREATING PNG
+[12-00-16] (DATA) PNG : PNG './pngs/result_25-07-2022_12-00-02.png' CREATED
+[12-00-16] (EVENT) TWEET : POST INIT
+[12-00-16] (EVENT) TWEET : POST APPEND
+[12-00-17] (EVENT) TWEET : POST FINALIZE
+[12-00-17] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[12-00-18] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[26-07-2022]
+[12-00-04] (EVENT) NASA'S API : GATHERING DATA
+[12-00-17] (DATA) NASA'S API : {"des": "2015 QH3", "orbit_id": "11", "jd": "2459814.432723689", "cd": "2022-Aug-22 22:23", "dist": "0.0143853293288606", "dist_min": "0.0132281547506209", "dist_max": "0.0495050205786971", "v_rel": "7.00195249981197", "v_inf": "6.97544943554266", "t_sigma_f": "2_23:34", "h": "27.0", "diameter": null, "diameter_sigma": null}
+[DATA NAME DIST] : 2015 QH3 : 2152015
+[12-00-17] (EVENT) TWEET : CREATING TWEET'S TEXT
+[12-00-17] (DATA) TWEET'S TEXT : 🟢 L'#asteroide 2015 QH3 d'un diamètre non connu passe actuellement à 2,152,015km de la #terre (soit 5.6 fois la distance terre-lune) à une vitesse de 7.0km/s (25207km/h) 🟢
+[12-00-17] (EVENT) PNG : CREATING PNG
+[12-00-17] (DATA) PNG : PNG './pngs/result_26-07-2022_12-00-04.png' CREATED
+[12-00-17] (EVENT) TWEET : POST INIT
+[12-00-18] (EVENT) TWEET : POST APPEND
+[12-00-18] (EVENT) TWEET : POST FINALIZE
+[12-00-19] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[12-00-19] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[27-07-2022]
+[18-00-04] (EVENT) NASA'S API : GATHERING DATA
+[18-00-18] (DATA) NASA'S API ASTEROID : {"des": "2022 OG1", "orbit_id": "2", "jd": "2459789.770244326", "cd": "2022-Jul-29 06:29", "dist": "0.0116516046870705", "dist_min": "0.011617699981451", "dist_max": "0.0116855067700198", "v_rel": "5.02792574905979", "v_inf": "4.98223634421613", "t_sigma_f": "00:01", "h": "27.2", "diameter": null, "diameter_sigma": null}
+[18-00-18] (DATA) NASA'S API COMET : {}
+[18-00-18] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 OG1 : 1743055
+[18-00-18] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-18] (DATA) TWEET'S TEXT : 🟢 L'#asteroide 2022 OG1 d'un diamètre éstimé entre 10m et 22m passe actuellement à 1,743,055km de la #terre (soit 4.53 fois la distance terre-lune) à une vitesse de 5.03km/s (18101km/h) 🟢
+[18-00-18] (EVENT) PNG : CREATING PNG
+[18-00-18] (DATA) PNG : PNG './pngs/result_27-07-2022_18-00-04.png' CREATED
+[18-00-18] (EVENT) TWEET : POST INIT
+[18-00-18] (EVENT) TWEET : POST APPEND
+[18-00-18] (EVENT) TWEET : POST FINALIZE
+[18-00-19] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-19] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[28-07-2022]
+[18-00-03] (EVENT) NASA'S API : GATHERING DATA
+[18-00-30] (DATA) NASA'S API ASTEROID : {"des": "2022 OH2", "orbit_id": "1", "jd": "2459798.774249996", "cd": "2022-Aug-07 06:35", "dist": "0.0112789172916708", "dist_min": "0.0112298879271191", "dist_max": "0.0113279388864662", "v_rel": "4.00159641264797", "v_inf": "3.94211911098001", "t_sigma_f": "00:11", "h": "27.384", "diameter": null, "diameter_sigma": null}
+[18-00-30] (DATA) NASA'S API COMET : {}
+[18-00-30] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 OH2 : 1687302
+[18-00-30] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-30] (DATA) TWEET'S TEXT : 🟢 L'#asteroide 2022 OH2 d'un diamètre éstimé entre 9m et 20m passe actuellement à 1,687,302km de la #terre (soit 4.39 fois la distance terre-lune) à une vitesse de 4.0km/s (14406km/h) 🟢
+[18-00-30] (EVENT) PNG : CREATING PNG
+[18-00-30] (DATA) PNG : PNG './pngs/result_28-07-2022_18-00-03.png' CREATED
+[18-00-30] (EVENT) TWEET : POST INIT
+[18-00-30] (EVENT) TWEET : POST APPEND
+[18-00-30] (EVENT) TWEET : POST FINALIZE
+[18-00-31] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-32] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[18-00-32] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
+[18-00-32] (DATA) LAST FOLLOWER : rose_arnoux
+-----------------------------------------------------------------------------------------
+[29-07-2022]
+[18-00-02] (EVENT) NASA'S API : GATHERING DATA
+[18-00-49] (DATA) NASA'S API ASTEROID : {"des": "2022 OU2", "orbit_id": "1", "jd": "2459792.834646559", "cd": "2022-Aug-01 08:02", "dist": "0.00933133710525869", "dist_min": "0.00923655872521298", "dist_max": "0.00942610856630888", "v_rel": "8.47949046233633", "v_inf": "8.44574901940399", "t_sigma_f": "00:06", "h": "24.839", "diameter": null, "diameter_sigma": null}
+[18-00-49] (DATA) NASA'S API COMET : {}
+[18-00-49] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 OU2 : 1395948
+[18-00-49] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-49] (DATA) TWEET'S TEXT : 🟢 L'#asteroide 2022 OU2 d'un diamètre éstimé entre 29m et 64m passe actuellement à 1,395,948km de la #terre (soit 3.63 fois la distance terre-lune) à une vitesse de 8.48km/s (30526km/h) 🟢
+[18-00-49] (EVENT) PNG : CREATING PNG
+[18-00-49] (DATA) PNG : PNG './pngs/result_29-07-2022_18-00-02.png' CREATED
+[18-00-49] (EVENT) TWEET : POST INIT
+[18-00-50] (EVENT) TWEET : POST APPEND
+[18-00-50] (EVENT) TWEET : POST FINALIZE
+[18-00-51] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-51] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[18-00-52] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
+[18-00-52] (DATA) LAST FOLLOWER : AstrObjectif
+-----------------------------------------------------------------------------------------
+[30-07-2022]
+[18-00-02] (EVENT) NASA'S API : GATHERING DATA
+[18-00-57] (DATA) NASA'S API ASTEROID : {"des": "2022 OC3", "orbit_id": "1", "jd": "2459795.808629064", "cd": "2022-Aug-04 07:24", "dist": "0.00819432636261413", "dist_min": "0.00817391711019951", "dist_max": "0.00821473175035804", "v_rel": "3.8437165745099", "v_inf": "3.75816898673392", "t_sigma_f": "00:02", "h": "28.462", "diameter": null, "diameter_sigma": null}
+[18-00-57] (DATA) NASA'S API COMET : {}
+[18-00-57] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 OC3 : 1225854
+[18-00-57] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-57] (DATA) TWEET'S TEXT : 🟢 L'#asteroide 2022 OC3 d'un diamètre éstimé entre 5m et 12m passe actuellement à 1,225,854km de la #terre (soit 3.19 fois la distance terre-lune) à une vitesse de 3.84km/s (13837km/h) 🟢
+[18-00-57] (EVENT) PNG : CREATING PNG
+[18-00-57] (DATA) PNG : PNG './pngs/result_30-07-2022_18-00-02.png' CREATED
+[18-00-57] (EVENT) TWEET : POST INIT
+[18-00-58] (EVENT) TWEET : POST APPEND
+[18-00-58] (EVENT) TWEET : POST FINALIZE
+[18-00-59] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-59] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[18-01-00] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
+[18-01-00] (DATA) LAST FOLLOWER : AstrObjectif
+-----------------------------------------------------------------------------------------
+[31-07-2022]
+[18-00-02] (EVENT) NASA'S API : GATHERING DATA
+[18-00-16] (DATA) NASA'S API ASTEROID : {"des": "2022 OC3", "orbit_id": "1", "jd": "2459795.808629064", "cd": "2022-Aug-04 07:24", "dist": "0.00819432636261413", "dist_min": "0.00817391711019951", "dist_max": "0.00821473175035804", "v_rel": "3.8437165745099", "v_inf": "3.75816898673392", "t_sigma_f": "00:02", "h": "28.462", "diameter": null, "diameter_sigma": null}
+[18-00-16] (DATA) NASA'S API COMET : {}
+[18-00-16] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 OC3 : 1225854
+[18-00-16] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-16] (DATA) TWEET'S TEXT : 🟢 L'#asteroide 2022 OC3 d'un diamètre éstimé entre 5m et 12m passe actuellement à 1,225,854km de la #terre (soit 3.19 fois la distance terre-lune) à une vitesse de 3.84km/s (13837km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟢
+[18-00-16] (EVENT) PNG : CREATING PNG
+[18-00-17] (DATA) PNG : PNG './pngs/result_31-07-2022_18-00-02.png' CREATED
+[18-00-17] (EVENT) TWEET : POST INIT
+[18-00-17] (EVENT) TWEET : POST APPEND
+[18-00-17] (EVENT) TWEET : POST FINALIZE
+[18-00-18] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-18] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : dall_acq
+[18-00-19] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[01-08-2022]
+[18-00-04] (EVENT) NASA'S API : GATHERING DATA
+[18-00-59] (DATA) NASA'S API ASTEROID : {"des": "2022 OC3", "orbit_id": "1", "jd": "2459795.808629064", "cd": "2022-Aug-04 07:24", "dist": "0.00819432636261413", "dist_min": "0.00817391711019951", "dist_max": "0.00821473175035804", "v_rel": "3.8437165745099", "v_inf": "3.75816898673392", "t_sigma_f": "00:02", "h": "28.49", "diameter": null, "diameter_sigma": null}
+[18-00-59] (DATA) NASA'S API COMET : {}
+[18-00-59] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 OC3 : 1225854
+[18-00-59] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-59] (DATA) TWEET'S TEXT : 🟢 L'#asteroide 2022 OC3 d'un diamètre éstimé entre 5m et 12m passe actuellement à 1,225,854km de la #terre (soit 3.19 fois la distance terre-lune) à une vitesse de 3.84km/s (13837km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟢
+[18-00-59] (EVENT) PNG : CREATING PNG
+[18-01-00] (DATA) PNG : PNG './pngs/result_01-08-2022_18-00-04.png' CREATED
+[18-01-00] (EVENT) TWEET : POST INIT
+[18-01-00] (EVENT) TWEET : POST APPEND
+[18-01-00] (EVENT) TWEET : POST FINALIZE
+[18-01-01] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-01-01] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : dall_acq
+[18-01-02] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[02-08-2022]
+[18-00-04] (EVENT) NASA'S API : GATHERING DATA
+[18-01-03] (DATA) NASA'S API ASTEROID : {"des": "2022 OB5", "orbit_id": "1", "jd": "2459797.421229398", "cd": "2022-Aug-05 22:07", "dist": "0.00679124999694043", "dist_min": "0.00675644152116152", "dist_max": "0.00682603589649443", "v_rel": "2.12046616135925", "v_inf": "1.92657640619393", "t_sigma_f": "00:05", "h": "28.961", "diameter": null, "diameter_sigma": null}
+[18-01-03] (DATA) NASA'S API COMET : {}
+[18-01-03] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 OB5 : 1015957
+[18-01-03] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-01-03] (DATA) TWEET'S TEXT : 🟢 L'#asteroide 2022 OB5 d'un diamètre éstimé entre 4m et 10m passe actuellement à 1,015,957km de la #terre (soit 2.64 fois la distance terre-lune) à une vitesse de 2.12km/s (7634km/h) 🟢
+[18-01-03] (EVENT) PNG : CREATING PNG
+[18-01-03] (DATA) PNG : PNG './pngs/result_02-08-2022_18-00-04.png' CREATED
+[18-01-03] (EVENT) TWEET : POST INIT
+[18-01-04] (EVENT) TWEET : POST APPEND
+[18-01-04] (EVENT) TWEET : POST FINALIZE
+[18-01-05] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-01-05] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : ChrysAvdellidou
+[18-01-06] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[03-08-2022]
+[18-00-03] (EVENT) NASA'S API : GATHERING DATA
+[18-00-56] (DATA) NASA'S API ASTEROID : {"des": "2022 PE", "orbit_id": "1", "jd": "2459797.856723227", "cd": "2022-Aug-06 08:34", "dist": "0.00631463175665229", "dist_min": "0.00630329881878676", "dist_max": "0.00632596237330425", "v_rel": "3.87294765566162", "v_inf": "3.76242170159673", "t_sigma_f": "00:02", "h": "28.347", "diameter": null, "diameter_sigma": null}
+[18-00-56] (DATA) NASA'S API COMET : {}
+[18-00-56] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 PE : 944655
+[18-00-56] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-56] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2022 PE d'un diamètre éstimé entre 6m et 13m passe actuellement à 944,655km de la #terre (soit 2.46 fois la distance terre-lune) à une vitesse de 3.87km/s (13943km/h) 🟠
+[18-00-56] (EVENT) PNG : CREATING PNG
+[18-00-57] (DATA) PNG : PNG './pngs/result_03-08-2022_18-00-03.png' CREATED
+[18-00-57] (EVENT) TWEET : POST INIT
+[18-00-57] (EVENT) TWEET : POST APPEND
+[18-00-57] (EVENT) TWEET : POST FINALIZE
+[18-00-58] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-58] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : ChrysAvdellidou
+[18-00-58] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[04-08-2022]
+[18-38-50] (EVENT) NASA'S API : GATHERING DATA
+[18-38-55] (DATA) NASA'S API ASTEROID : {"des": "2022 PE", "orbit_id": "2", "jd": "2459797.856639825", "cd": "2022-Aug-06 08:34", "dist": "0.00631422514166132", "dist_min": "0.00630726346593311", "dist_max": "0.00632118588262239", "v_rel": "3.87325327652221", "v_inf": "3.7627290782735", "t_sigma_f": "< 00:01", "h": "28.431", "diameter": null, "diameter_sigma": null}
+[18-38-55] (DATA) NASA'S API COMET : {}
+[18-38-55] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 PE : 944595
+[18-38-55] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-38-55] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2022 PE d'un diamètre éstimé entre 5m et 12m passe actuellement à 944,595km de la #terre (soit 2.46 fois la distance terre-lune) à une vitesse de 3.87km/s (13944km/h). Cet objet spacial s'est rapproché de 60km depuis hier 🟠
+[18-38-55] (EVENT) PNG : CREATING PNG
+[18-38-55] (DATA) PNG : PNG './pngs/result_04-08-2022_18-38-50.png' CREATED
+[18-38-55] (EVENT) TWEET : POST INIT
+[18-38-55] (EVENT) TWEET : POST APPEND
+[18-38-55] (EVENT) TWEET : POST FINALIZE
+[18-38-56] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-38-57] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : ChrysAvdellidou
+[18-38-57] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[05-08-2022]
+[18-00-05] (EVENT) NASA'S API : GATHERING DATA
+[18-00-23] (DATA) NASA'S API ASTEROID : {"des": "2022 PE", "orbit_id": "3", "jd": "2459797.856684452", "cd": "2022-Aug-06 08:34", "dist": "0.00631300071368864", "dist_min": "0.00630682532664198", "dist_max": "0.0063191754078743", "v_rel": "3.87222923223858", "v_inf": "3.76165318846956", "t_sigma_f": "< 00:01", "h": "28.381", "diameter": null, "diameter_sigma": null}
+[18-00-23] (DATA) NASA'S API COMET : {}
+[18-00-23] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 PE : 944411
+[18-00-23] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-23] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2022 PE d'un diamètre éstimé entre 6m et 13m passe actuellement à 944,411km de la #terre (soit 2.46 fois la distance terre-lune) à une vitesse de 3.87km/s (13940km/h). Cet objet spacial s'est rapproché de 184km depuis hier 🟠
+[18-00-23] (EVENT) PNG : CREATING PNG
+[18-00-23] (DATA) PNG : PNG './pngs/result_05-08-2022_18-00-05.png' CREATED
+[18-00-23] (EVENT) TWEET : POST INIT
+[18-00-23] (EVENT) TWEET : POST APPEND
+[18-00-23] (EVENT) TWEET : POST FINALIZE
+[18-00-24] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-24] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : ChrysAvdellidou
+[18-00-25] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[06-08-2022]
+[18-00-03] (EVENT) NASA'S API : GATHERING DATA
+[18-00-17] (DATA) NASA'S API ASTEROID : {"des": "2022 PW", "orbit_id": "1", "jd": "2459807.545092405", "cd": "2022-Aug-16 01:05", "dist": "0.00351653667507008", "dist_min": "0.0033953358394879", "dist_max": "0.00363797156769669", "v_rel": "7.52981445637145", "v_inf": "7.42850631231346", "t_sigma_f": "08:59", "h": "25.467", "diameter": null, "diameter_sigma": null}
+[18-00-17] (DATA) NASA'S API COMET : {}
+[18-00-17] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 PW : 526066
+[18-00-17] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-17] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2022 PW d'un diamètre éstimé entre 21m et 48m passe actuellement à 526,066km de la #terre (soit 1.37 fois la distance terre-lune) à une vitesse de 7.53km/s (27107km/h) 🟠
+[18-00-17] (EVENT) PNG : CREATING PNG
+[18-00-17] (DATA) PNG : PNG './pngs/result_06-08-2022_18-00-03.png' CREATED
+[18-00-17] (EVENT) TWEET : POST INIT
+[18-00-17] (EVENT) TWEET : POST APPEND
+[18-00-17] (EVENT) TWEET : POST FINALIZE
+[18-00-18] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-19] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : ChrysAvdellidou
+[18-00-19] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[07-08-2022]
+[18-00-02] (EVENT) NASA'S API : GATHERING DATA
+[18-00-19] (DATA) NASA'S API ASTEROID : {"des": "2022 PW", "orbit_id": "2", "jd": "2459807.605285518", "cd": "2022-Aug-16 02:32", "dist": "0.0035339810354644", "dist_min": "0.00348269476035256", "dist_max": "0.00358531572738986", "v_rel": "7.48114152359971", "v_inf": "7.37967201601626", "t_sigma_f": "04:13", "h": "25.433", "diameter": null, "diameter_sigma": null}
+[18-00-19] (DATA) NASA'S API COMET : {}
+[18-00-19] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 PW : 528676
+[18-00-19] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-19] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2022 PW d'un diamètre éstimé entre 22m et 49m passe actuellement à 528,676km de la #terre (soit 1.38 fois la distance terre-lune) à une vitesse de 7.48km/s (26932km/h). Cet objet spacial s'est éloigné de 2,610km depuis hier 🟠
+[18-00-19] (EVENT) PNG : CREATING PNG
+[18-00-19] (DATA) PNG : PNG './pngs/result_07-08-2022_18-00-02.png' CREATED
+[18-00-19] (EVENT) TWEET : POST INIT
+[18-00-19] (EVENT) TWEET : POST APPEND
+[18-00-19] (EVENT) TWEET : POST FINALIZE
+[18-00-20] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-20] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : ChrysAvdellidou
+[18-00-20] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[08-08-2022]
+[18-00-04] (EVENT) NASA'S API : GATHERING DATA
+[18-00-17] (DATA) NASA'S API ASTEROID : {"des": "2022 PW", "orbit_id": "2", "jd": "2459807.605285518", "cd": "2022-Aug-16 02:32", "dist": "0.0035339810354644", "dist_min": "0.00348269476035256", "dist_max": "0.00358531572738986", "v_rel": "7.48114152359971", "v_inf": "7.37967201601626", "t_sigma_f": "04:13", "h": "25.433", "diameter": null, "diameter_sigma": null}
+[18-00-17] (DATA) NASA'S API COMET : {}
+[18-00-17] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 PW : 528676
+[18-00-17] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-17] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2022 PW d'un diamètre éstimé entre 22m et 49m passe actuellement à 528,676km de la #terre (soit 1.38 fois la distance terre-lune) à une vitesse de 7.48km/s (26932km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-00-17] (EVENT) PNG : CREATING PNG
+[18-00-17] (DATA) PNG : PNG './pngs/result_08-08-2022_18-00-04.png' CREATED
+[18-00-17] (EVENT) TWEET : POST INIT
+[18-00-17] (EVENT) TWEET : POST APPEND
+[18-00-17] (EVENT) TWEET : POST FINALIZE
+[18-00-18] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-19] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : QLemarechal
+[18-00-19] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[09-08-2022]
+[18-00-03] (EVENT) NASA'S API : GATHERING DATA
+[18-00-57] (DATA) NASA'S API ASTEROID : {"des": "2022 PW", "orbit_id": "3", "jd": "2459807.629639006", "cd": "2022-Aug-16 03:07", "dist": "0.00354055883266915", "dist_min": "0.00352265708616497", "dist_max": "0.00355845688401012", "v_rel": "7.46024876663736", "v_inf": "7.35868151935457", "t_sigma_f": "00:23", "h": "25.434", "diameter": null, "diameter_sigma": null}
+[18-00-57] (DATA) NASA'S API COMET : {}
+[18-00-57] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 PW : 529660
+[18-00-57] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-57] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2022 PW d'un diamètre éstimé entre 22m et 49m passe actuellement à 529,660km de la #terre (soit 1.38 fois la distance terre-lune) à une vitesse de 7.46km/s (26857km/h). Cet objet spacial s'est éloigné de 984km depuis hier 🟠
+[18-00-57] (EVENT) PNG : CREATING PNG
+[18-00-57] (DATA) PNG : PNG './pngs/result_09-08-2022_18-00-03.png' CREATED
+[18-00-57] (EVENT) TWEET : POST INIT
+[18-00-58] (EVENT) TWEET : POST APPEND
+[18-00-58] (EVENT) TWEET : POST FINALIZE
+[18-00-59] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-59] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : abdelmadjidAgg2
+[18-01-00] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[10-08-2022]
+[18-00-04] (EVENT) NASA'S API : GATHERING DATA
+[18-00-18] (DATA) NASA'S API ASTEROID : {"des": "2022 PW", "orbit_id": "4", "jd": "2459807.616012587", "cd": "2022-Aug-16 02:47", "dist": "0.00353572417605523", "dist_min": "0.00351875382752278", "dist_max": "0.00355269049294928", "v_rel": "7.47322810630683", "v_inf": "7.3717000965317", "t_sigma_f": "00:11", "h": "25.379", "diameter": null, "diameter_sigma": null}
+[18-00-18] (DATA) NASA'S API COMET : {}
+[18-00-18] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 PW : 528937
+[18-00-18] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-18] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2022 PW d'un diamètre éstimé entre 22m et 50m passe actuellement à 528,937km de la #terre (soit 1.38 fois la distance terre-lune) à une vitesse de 7.47km/s (26904km/h). Cet objet spacial s'est rapproché de 723km depuis hier 🟠
+[18-00-18] (EVENT) PNG : CREATING PNG
+[18-00-18] (DATA) PNG : PNG './pngs/result_10-08-2022_18-00-04.png' CREATED
+[18-00-18] (EVENT) TWEET : POST INIT
+[18-00-18] (EVENT) TWEET : POST APPEND
+[18-00-18] (EVENT) TWEET : POST FINALIZE
+[18-00-19] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-20] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : abdelmadjidAgg2
+[18-00-20] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[11-08-2022]
+[18-00-03] (EVENT) NASA'S API : GATHERING DATA
+[18-00-19] (DATA) NASA'S API ASTEROID : {"des": "2022 PW", "orbit_id": "4", "jd": "2459807.616012587", "cd": "2022-Aug-16 02:47", "dist": "0.00353572417605523", "dist_min": "0.00351875382752278", "dist_max": "0.00355269049294928", "v_rel": "7.47322810630683", "v_inf": "7.3717000965317", "t_sigma_f": "00:11", "h": "25.379", "diameter": null, "diameter_sigma": null}
+[18-00-19] (DATA) NASA'S API COMET : {}
+[18-00-19] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 PW : 528937
+[18-00-19] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-19] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2022 PW d'un diamètre éstimé entre 22m et 50m passe actuellement à 528,937km de la #terre (soit 1.38 fois la distance terre-lune) à une vitesse de 7.47km/s (26904km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-00-19] (EVENT) PNG : CREATING PNG
+[18-00-19] (DATA) PNG : PNG './pngs/result_11-08-2022_18-00-03.png' CREATED
+[18-00-19] (EVENT) TWEET : POST INIT
+[18-00-19] (EVENT) TWEET : POST APPEND
+[18-00-20] (EVENT) TWEET : POST FINALIZE
+[18-00-21] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-21] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : MCazeneuve
+[18-00-21] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[12-08-2022]
+[18-00-03] (EVENT) NASA'S API : GATHERING DATA
+[18-00-21] (DATA) NASA'S API ASTEROID : {"des": "2022 PW", "orbit_id": "4", "jd": "2459807.616012587", "cd": "2022-Aug-16 02:47", "dist": "0.00353572417605523", "dist_min": "0.00351875382752278", "dist_max": "0.00355269049294928", "v_rel": "7.47322810630683", "v_inf": "7.3717000965317", "t_sigma_f": "00:11", "h": "25.379", "diameter": null, "diameter_sigma": null}
+[18-00-21] (DATA) NASA'S API COMET : {}
+[18-00-21] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 PW : 528937
+[18-00-21] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-21] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2022 PW d'un diamètre éstimé entre 22m et 50m passe actuellement à 528,937km de la #terre (soit 1.38 fois la distance terre-lune) à une vitesse de 7.47km/s (26904km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-00-21] (EVENT) PNG : CREATING PNG
+[18-00-21] (DATA) PNG : PNG './pngs/result_12-08-2022_18-00-03.png' CREATED
+[18-00-21] (EVENT) TWEET : POST INIT
+[18-00-21] (EVENT) TWEET : POST APPEND
+[18-00-21] (EVENT) TWEET : POST FINALIZE
+[18-00-22] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-23] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : ChrisLavaquerie
+[18-00-23] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[13-08-2022]
+[18-00-02] (EVENT) NASA'S API : GATHERING DATA
+[18-00-17] (DATA) NASA'S API ASTEROID : {"des": "2022 PW", "orbit_id": "5", "jd": "2459807.615505666", "cd": "2022-Aug-16 02:46", "dist": "0.00353549082294034", "dist_min": "0.00351854056346269", "dist_max": "0.00355243704215679", "v_rel": "7.47375607488253", "v_inf": "7.3722285893051", "t_sigma_f": "00:10", "h": "25.385", "diameter": null, "diameter_sigma": null}
+[18-00-17] (DATA) NASA'S API COMET : {}
+[18-00-17] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 PW : 528902
+[18-00-17] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-17] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2022 PW d'un diamètre éstimé entre 22m et 50m passe actuellement à 528,902km de la #terre (soit 1.38 fois la distance terre-lune) à une vitesse de 7.47km/s (26906km/h). Cet objet spacial s'est rapproché de 35km depuis hier 🟠
+[18-00-17] (EVENT) PNG : CREATING PNG
+[18-00-17] (DATA) PNG : PNG './pngs/result_13-08-2022_18-00-02.png' CREATED
+[18-00-17] (EVENT) TWEET : POST INIT
+[18-00-17] (EVENT) TWEET : POST APPEND
+[18-00-18] (EVENT) TWEET : POST FINALIZE
+[18-00-18] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-19] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : MimmsMimss
+[18-00-19] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[14-08-2022]
+[18-00-02] (EVENT) NASA'S API : GATHERING DATA
+[18-00-35] (DATA) NASA'S API ASTEROID : {"des": "2022 PW", "orbit_id": "6", "jd": "2459807.627903732", "cd": "2022-Aug-16 03:04", "dist": "0.00353991495700658", "dist_min": "0.00352391854310815", "dist_max": "0.00355590755399727", "v_rel": "7.46184297329822", "v_inf": "7.3602791275335", "t_sigma_f": "< 00:01", "h": "25.353", "diameter": null, "diameter_sigma": null}
+[18-00-35] (DATA) NASA'S API COMET : {}
+[18-00-35] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 PW : 529564
+[18-00-35] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-35] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2022 PW d'un diamètre éstimé entre 23m et 51m passe actuellement à 529,564km de la #terre (soit 1.38 fois la distance terre-lune) à une vitesse de 7.46km/s (26863km/h). Cet objet spacial s'est éloigné de 662km depuis hier 🟠
+[18-00-35] (EVENT) PNG : CREATING PNG
+[18-00-35] (DATA) PNG : PNG './pngs/result_14-08-2022_18-00-02.png' CREATED
+[18-00-35] (EVENT) TWEET : POST INIT
+[18-00-35] (EVENT) TWEET : POST APPEND
+[18-00-36] (EVENT) TWEET : POST FINALIZE
+[18-00-36] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-37] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : MimmsMimss
+[18-00-37] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[15-08-2022]
+[18-00-04] (EVENT) NASA'S API : GATHERING DATA
+[18-00-21] (DATA) NASA'S API ASTEROID : {"des": "2022 PW", "orbit_id": "7", "jd": "2459807.627810323", "cd": "2022-Aug-16 03:04", "dist": "0.00354328201279018", "dist_min": "0.00353795909037521", "dist_max": "0.00354860451575585", "v_rel": "7.46887834102156", "v_inf": "7.36750856603676", "t_sigma_f": "< 00:01", "h": "25.336", "diameter": null, "diameter_sigma": null}
+[18-00-21] (DATA) NASA'S API COMET : {}
+[18-00-21] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 PW : 530067
+[18-00-21] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-21] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2022 PW d'un diamètre éstimé entre 23m et 51m passe actuellement à 530,067km de la #terre (soit 1.38 fois la distance terre-lune) à une vitesse de 7.47km/s (26888km/h). Cet objet spacial s'est éloigné de 503km depuis hier 🟠
+[18-00-21] (EVENT) PNG : CREATING PNG
+[18-00-21] (DATA) PNG : PNG './pngs/result_15-08-2022_18-00-04.png' CREATED
+[18-00-21] (EVENT) TWEET : POST INIT
+[18-00-21] (EVENT) TWEET : POST APPEND
+[18-00-22] (EVENT) TWEET : POST FINALIZE
+[18-00-22] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-23] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : MimmsMimss
+[18-00-23] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[16-08-2022]
+[18-00-02] (EVENT) NASA'S API : GATHERING DATA
+[18-00-17] (DATA) NASA'S API ASTEROID : {"des": "2022 PW", "orbit_id": "8", "jd": "2459807.627858977", "cd": "2022-Aug-16 03:04", "dist": "0.00354442145015291", "dist_min": "0.00353970703676291", "dist_max": "0.00354913552995236", "v_rel": "7.4708811806761", "v_inf": "7.36957175804731", "t_sigma_f": "< 00:01", "h": "25.345", "diameter": null, "diameter_sigma": null}
+[18-00-17] (DATA) NASA'S API COMET : {}
+[18-00-17] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 PW : 530238
+[18-00-17] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-17] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2022 PW d'un diamètre éstimé entre 23m et 51m passe actuellement à 530,238km de la #terre (soit 1.38 fois la distance terre-lune) à une vitesse de 7.47km/s (26895km/h). Cet objet spacial s'est éloigné de 171km depuis hier 🟠
+[18-00-17] (EVENT) PNG : CREATING PNG
+[18-00-18] (DATA) PNG : PNG './pngs/result_16-08-2022_18-00-02.png' CREATED
+[18-00-18] (EVENT) TWEET : POST INIT
+[18-00-18] (EVENT) TWEET : POST APPEND
+[18-00-18] (EVENT) TWEET : POST FINALIZE
+[18-00-19] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-19] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : MimmsMimss
+[18-00-20] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[17-08-2022]
+[18-00-02] (EVENT) NASA'S API : GATHERING DATA
+[18-00-16] (DATA) NASA'S API ASTEROID : {"des": "2020 TO2", "orbit_id": "7", "jd": "2459868.460286041", "cd": "2022-Oct-15 23:03", "dist": "0.00358199122491309", "dist_min": "0.00323378237782488", "dist_max": "0.0498506713271651", "v_rel": "12.5817267658203", "v_inf": "12.5224654098999", "t_sigma_f": "4_12:04", "h": "26.43", "diameter": null, "diameter_sigma": null}
+[18-00-16] (DATA) NASA'S API COMET : {}
+[18-00-16] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2020 TO2 : 535858
+[18-00-16] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-16] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2020 TO2 d'un diamètre éstimé entre 14m et 31m passe actuellement à 535,858km de la #terre (soit 1.39 fois la distance terre-lune) à une vitesse de 12.58km/s (45294km/h) 🟠
+[18-00-16] (EVENT) PNG : CREATING PNG
+[18-00-16] (DATA) PNG : PNG './pngs/result_17-08-2022_18-00-02.png' CREATED
+[18-00-16] (EVENT) TWEET : POST INIT
+[18-00-16] (EVENT) TWEET : POST APPEND
+[18-00-16] (EVENT) TWEET : POST FINALIZE
+[18-00-18] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-19] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : MimmsMimss
+[18-00-19] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[18-08-2022]
+[18-00-02] (EVENT) NASA'S API : GATHERING DATA
+[18-01-21] (DATA) NASA'S API ASTEROID : {"des": "2020 TO2", "orbit_id": "7", "jd": "2459868.460286041", "cd": "2022-Oct-15 23:03", "dist": "0.00358199122491309", "dist_min": "0.00323378237782488", "dist_max": "0.0498506713271651", "v_rel": "12.5817267658203", "v_inf": "12.5224654098999", "t_sigma_f": "4_12:04", "h": "26.43", "diameter": null, "diameter_sigma": null}
+[18-01-21] (DATA) NASA'S API COMET : {}
+[18-01-21] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2020 TO2 : 535858
+[18-01-21] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-01-21] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2020 TO2 d'un diamètre éstimé entre 14m et 31m passe actuellement à 535,858km de la #terre (soit 1.39 fois la distance terre-lune) à une vitesse de 12.58km/s (45294km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-01-21] (EVENT) PNG : CREATING PNG
+[18-01-22] (DATA) PNG : PNG './pngs/result_18-08-2022_18-00-02.png' CREATED
+[18-01-22] (EVENT) TWEET : POST INIT
+[18-01-22] (EVENT) TWEET : POST APPEND
+[18-01-22] (EVENT) TWEET : POST FINALIZE
+[18-01-23] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-01-23] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : MimmsMimss
+[18-01-23] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[19-08-2022]
+[18-00-03] (EVENT) NASA'S API : GATHERING DATA
+[18-01-01] (DATA) NASA'S API ASTEROID : {"des": "2020 TO2", "orbit_id": "7", "jd": "2459868.460286041", "cd": "2022-Oct-15 23:03", "dist": "0.00358199122491309", "dist_min": "0.00323378237782488", "dist_max": "0.0498506713271651", "v_rel": "12.5817267658203", "v_inf": "12.5224654098999", "t_sigma_f": "4_12:04", "h": "26.43", "diameter": null, "diameter_sigma": null}
+[18-01-01] (DATA) NASA'S API COMET : {}
+[18-01-01] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2020 TO2 : 535858
+[18-01-01] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-01-01] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2020 TO2 d'un diamètre éstimé entre 14m et 31m passe actuellement à 535,858km de la #terre (soit 1.39 fois la distance terre-lune) à une vitesse de 12.58km/s (45294km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-01-01] (EVENT) PNG : CREATING PNG
+[18-01-01] (DATA) PNG : PNG './pngs/result_19-08-2022_18-00-03.png' CREATED
+[18-01-01] (EVENT) TWEET : POST INIT
+[18-01-01] (EVENT) TWEET : POST APPEND
+[18-01-02] (EVENT) TWEET : POST FINALIZE
+[18-01-03] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-01-03] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : Celinecael
+[18-01-04] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[20-08-2022]
+[18-00-04] (EVENT) NASA'S API : GATHERING DATA
+[18-00-22] (DATA) NASA'S API ASTEROID : {"des": "2020 TO2", "orbit_id": "7", "jd": "2459868.460286041", "cd": "2022-Oct-15 23:03", "dist": "0.00358199122491309", "dist_min": "0.00323378237782488", "dist_max": "0.0498506713271651", "v_rel": "12.5817267658203", "v_inf": "12.5224654098999", "t_sigma_f": "4_12:04", "h": "26.43", "diameter": null, "diameter_sigma": null}
+[18-00-22] (DATA) NASA'S API COMET : {}
+[18-00-22] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2020 TO2 : 535858
+[18-00-22] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-22] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2020 TO2 d'un diamètre éstimé entre 14m et 31m passe actuellement à 535,858km de la #terre (soit 1.39 fois la distance terre-lune) à une vitesse de 12.58km/s (45294km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-00-22] (EVENT) PNG : CREATING PNG
+[18-00-22] (DATA) PNG : PNG './pngs/result_20-08-2022_18-00-04.png' CREATED
+[18-00-22] (EVENT) TWEET : POST INIT
+[18-00-22] (EVENT) TWEET : POST APPEND
+[18-00-22] (EVENT) TWEET : POST FINALIZE
+[18-00-23] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-23] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : Celinecael
+[18-00-24] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[21-08-2022]
+[18-00-02] (EVENT) NASA'S API : GATHERING DATA
+[18-00-16] (DATA) NASA'S API ASTEROID : {"des": "2020 TO2", "orbit_id": "7", "jd": "2459868.460286041", "cd": "2022-Oct-15 23:03", "dist": "0.00358199122491309", "dist_min": "0.00323378237782488", "dist_max": "0.0498506713271651", "v_rel": "12.5817267658203", "v_inf": "12.5224654098999", "t_sigma_f": "4_12:04", "h": "26.43", "diameter": null, "diameter_sigma": null}
+[18-00-16] (DATA) NASA'S API COMET : {}
+[18-00-16] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2020 TO2 : 535858
+[18-00-16] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-16] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2020 TO2 d'un diamètre éstimé entre 14m et 31m passe actuellement à 535,858km de la #terre (soit 1.39 fois la distance terre-lune) à une vitesse de 12.58km/s (45294km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-00-16] (EVENT) PNG : CREATING PNG
+[18-00-17] (DATA) PNG : PNG './pngs/result_21-08-2022_18-00-02.png' CREATED
+[18-00-17] (EVENT) TWEET : POST INIT
+[18-00-17] (EVENT) TWEET : POST APPEND
+[18-00-17] (EVENT) TWEET : POST FINALIZE
+[18-00-18] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-18] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : Celinecael
+[18-00-18] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[22-08-2022]
+[18-00-04] (EVENT) NASA'S API : GATHERING DATA
+[18-00-22] (DATA) NASA'S API ASTEROID : {"des": "2020 TO2", "orbit_id": "7", "jd": "2459868.460286041", "cd": "2022-Oct-15 23:03", "dist": "0.00358199122491309", "dist_min": "0.00323378237782488", "dist_max": "0.0498506713271651", "v_rel": "12.5817267658203", "v_inf": "12.5224654098999", "t_sigma_f": "4_12:04", "h": "26.43", "diameter": null, "diameter_sigma": null}
+[18-00-22] (DATA) NASA'S API COMET : {}
+[18-00-22] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2020 TO2 : 535858
+[18-00-22] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-22] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2020 TO2 d'un diamètre éstimé entre 14m et 31m passe actuellement à 535,858km de la #terre (soit 1.39 fois la distance terre-lune) à une vitesse de 12.58km/s (45294km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-00-22] (EVENT) PNG : CREATING PNG
+[18-00-22] (DATA) PNG : PNG './pngs/result_22-08-2022_18-00-04.png' CREATED
+[18-00-22] (EVENT) TWEET : POST INIT
+[18-00-22] (EVENT) TWEET : POST APPEND
+[18-00-23] (EVENT) TWEET : POST FINALIZE
+[18-00-24] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-24] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : Celinecael
+[18-00-24] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[23-08-2022]
+[18-00-02] (EVENT) NASA'S API : GATHERING DATA
+[18-00-49] (DATA) NASA'S API ASTEROID : {"des": "2020 TO2", "orbit_id": "7", "jd": "2459868.460286041", "cd": "2022-Oct-15 23:03", "dist": "0.00358199122491309", "dist_min": "0.00323378237782488", "dist_max": "0.0498506713271651", "v_rel": "12.5817267658203", "v_inf": "12.5224654098999", "t_sigma_f": "4_12:04", "h": "26.43", "diameter": null, "diameter_sigma": null}
+[18-00-49] (DATA) NASA'S API COMET : {}
+[18-00-49] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2020 TO2 : 535858
+[18-00-49] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-49] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2020 TO2 d'un diamètre éstimé entre 14m et 31m passe actuellement à 535,858km de la #terre (soit 1.39 fois la distance terre-lune) à une vitesse de 12.58km/s (45294km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-00-49] (EVENT) PNG : CREATING PNG
+[18-00-49] (DATA) PNG : PNG './pngs/result_23-08-2022_18-00-02.png' CREATED
+[18-00-49] (EVENT) TWEET : POST INIT
+[18-00-49] (EVENT) TWEET : POST APPEND
+[18-00-50] (EVENT) TWEET : POST FINALIZE
+[18-00-50] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-51] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : TwitteeBoy
+[18-00-51] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[24-08-2022]
+[18-00-04] (EVENT) NASA'S API : GATHERING DATA
+[18-00-19] (DATA) NASA'S API ASTEROID : {"des": "2020 TO2", "orbit_id": "7", "jd": "2459868.460286041", "cd": "2022-Oct-15 23:03", "dist": "0.00358199122491309", "dist_min": "0.00323378237782488", "dist_max": "0.0498506713271651", "v_rel": "12.5817267658203", "v_inf": "12.5224654098999", "t_sigma_f": "4_12:04", "h": "26.43", "diameter": null, "diameter_sigma": null}
+[18-00-19] (DATA) NASA'S API COMET : {}
+[18-00-19] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2020 TO2 : 535858
+[18-00-19] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-19] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2020 TO2 d'un diamètre éstimé entre 14m et 31m passe actuellement à 535,858km de la #terre (soit 1.39 fois la distance terre-lune) à une vitesse de 12.58km/s (45294km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-00-19] (EVENT) PNG : CREATING PNG
+[18-00-19] (DATA) PNG : PNG './pngs/result_24-08-2022_18-00-04.png' CREATED
+[18-00-19] (EVENT) TWEET : POST INIT
+[18-00-19] (EVENT) TWEET : POST APPEND
+[18-00-19] (EVENT) TWEET : POST FINALIZE
+[18-00-20] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-21] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : TwitteeBoy
+[18-00-21] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[25-08-2022]
+[18-00-04] (EVENT) NASA'S API : GATHERING DATA
+[18-00-21] (DATA) NASA'S API ASTEROID : {"des": "2020 TO2", "orbit_id": "7", "jd": "2459868.460286041", "cd": "2022-Oct-15 23:03", "dist": "0.00358199122491309", "dist_min": "0.00323378237782488", "dist_max": "0.0498506713271651", "v_rel": "12.5817267658203", "v_inf": "12.5224654098999", "t_sigma_f": "4_12:04", "h": "26.43", "diameter": null, "diameter_sigma": null}
+[18-00-21] (DATA) NASA'S API COMET : {}
+[18-00-21] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2020 TO2 : 535858
+[18-00-21] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-21] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2020 TO2 d'un diamètre éstimé entre 14m et 31m passe actuellement à 535,858km de la #terre (soit 1.39 fois la distance terre-lune) à une vitesse de 12.58km/s (45294km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-00-21] (EVENT) PNG : CREATING PNG
+[18-00-21] (DATA) PNG : PNG './pngs/result_25-08-2022_18-00-04.png' CREATED
+[18-00-21] (EVENT) TWEET : POST INIT
+[18-00-21] (EVENT) TWEET : POST APPEND
+[18-00-21] (EVENT) TWEET : POST FINALIZE
+[18-00-22] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-23] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : TwitteeBoy
+[18-00-23] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[26-08-2022]
+[18-00-03] (EVENT) NASA'S API : GATHERING DATA
+[18-00-20] (DATA) NASA'S API ASTEROID : {"des": "2020 TO2", "orbit_id": "7", "jd": "2459868.460286041", "cd": "2022-Oct-15 23:03", "dist": "0.00358199122491309", "dist_min": "0.00323378237782488", "dist_max": "0.0498506713271651", "v_rel": "12.5817267658203", "v_inf": "12.5224654098999", "t_sigma_f": "4_12:04", "h": "26.43", "diameter": null, "diameter_sigma": null}
+[18-00-20] (DATA) NASA'S API COMET : {}
+[18-00-20] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2020 TO2 : 535858
+[18-00-20] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-20] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2020 TO2 d'un diamètre éstimé entre 14m et 31m passe actuellement à 535,858km de la #terre (soit 1.39 fois la distance terre-lune) à une vitesse de 12.58km/s (45294km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-00-20] (EVENT) PNG : CREATING PNG
+[18-00-20] (DATA) PNG : PNG './pngs/result_26-08-2022_18-00-03.png' CREATED
+[18-00-20] (EVENT) TWEET : POST INIT
+[18-00-21] (EVENT) TWEET : POST APPEND
+[18-00-21] (EVENT) TWEET : POST FINALIZE
+[18-00-22] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-22] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : Microcosme_A
+[18-00-23] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[27-08-2022]
+[18-00-02] (EVENT) NASA'S API : GATHERING DATA
+[18-01-00] (DATA) NASA'S API ASTEROID : {"des": "2020 TO2", "orbit_id": "7", "jd": "2459868.460286041", "cd": "2022-Oct-15 23:03", "dist": "0.00358199122491309", "dist_min": "0.00323378237782488", "dist_max": "0.0498506713271651", "v_rel": "12.5817267658203", "v_inf": "12.5224654098999", "t_sigma_f": "4_12:04", "h": "26.43", "diameter": null, "diameter_sigma": null}
+[18-01-00] (DATA) NASA'S API COMET : {}
+[18-01-00] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2020 TO2 : 535858
+[18-01-00] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-01-00] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2020 TO2 d'un diamètre éstimé entre 14m et 31m passe actuellement à 535,858km de la #terre (soit 1.39 fois la distance terre-lune) à une vitesse de 12.58km/s (45294km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-01-00] (EVENT) PNG : CREATING PNG
+[18-01-00] (DATA) PNG : PNG './pngs/result_27-08-2022_18-00-02.png' CREATED
+[18-01-00] (EVENT) TWEET : POST INIT
+[18-01-01] (EVENT) TWEET : POST APPEND
+[18-01-01] (EVENT) TWEET : POST FINALIZE
+[18-01-02] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-01-02] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : mimikalista
+[18-01-03] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[28-08-2022]
+[18-00-02] (EVENT) NASA'S API : GATHERING DATA
+[18-00-20] (DATA) NASA'S API ASTEROID : {"des": "2020 TO2", "orbit_id": "7", "jd": "2459868.460286041", "cd": "2022-Oct-15 23:03", "dist": "0.00358199122491309", "dist_min": "0.00323378237782488", "dist_max": "0.0498506713271651", "v_rel": "12.5817267658203", "v_inf": "12.5224654098999", "t_sigma_f": "4_12:04", "h": "26.43", "diameter": null, "diameter_sigma": null}
+[18-00-20] (DATA) NASA'S API COMET : {}
+[18-00-20] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2020 TO2 : 535858
+[18-00-20] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-20] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2020 TO2 d'un diamètre éstimé entre 14m et 31m passe actuellement à 535,858km de la #terre (soit 1.39 fois la distance terre-lune) à une vitesse de 12.58km/s (45294km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-00-20] (EVENT) PNG : CREATING PNG
+[18-00-20] (DATA) PNG : PNG './pngs/result_28-08-2022_18-00-02.png' CREATED
+[18-00-20] (EVENT) TWEET : POST INIT
+[18-00-20] (EVENT) TWEET : POST APPEND
+[18-00-21] (EVENT) TWEET : POST FINALIZE
+[18-00-21] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-22] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : mimikalista
+[18-00-22] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[29-08-2022]
+[18-00-03] (EVENT) NASA'S API : GATHERING DATA
+[18-00-21] (DATA) NASA'S API ASTEROID : {"des": "2020 TO2", "orbit_id": "7", "jd": "2459868.460286041", "cd": "2022-Oct-15 23:03", "dist": "0.00358199122491309", "dist_min": "0.00323378237782488", "dist_max": "0.0498506713271651", "v_rel": "12.5817267658203", "v_inf": "12.5224654098999", "t_sigma_f": "4_12:04", "h": "26.43", "diameter": null, "diameter_sigma": null}
+[18-00-21] (DATA) NASA'S API COMET : {}
+[18-00-21] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2020 TO2 : 535858
+[18-00-21] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-21] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2020 TO2 d'un diamètre éstimé entre 14m et 31m passe actuellement à 535,858km de la #terre (soit 1.39 fois la distance terre-lune) à une vitesse de 12.58km/s (45294km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-00-21] (EVENT) PNG : CREATING PNG
+[18-00-21] (DATA) PNG : PNG './pngs/result_29-08-2022_18-00-03.png' CREATED
+[18-00-21] (EVENT) TWEET : POST INIT
+[18-00-21] (EVENT) TWEET : POST APPEND
+[18-00-21] (EVENT) TWEET : POST FINALIZE
+[18-00-23] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-23] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : MecDeLaLumiere_
+[18-00-24] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[30-08-2022]
+[18-00-04] (EVENT) NASA'S API : GATHERING DATA
+[18-00-21] (DATA) NASA'S API ASTEROID : {"des": "2022 QT7", "orbit_id": "1", "jd": "2459823.919634354", "cd": "2022-Sep-01 10:04", "dist": "0.00314332114456131", "dist_min": "0.00313589604952886", "dist_max": "0.00315074574593692", "v_rel": "7.70219413663632", "v_inf": "7.5913415843785", "t_sigma_f": "00:04", "h": "28.814", "diameter": null, "diameter_sigma": null}
+[18-00-21] (DATA) NASA'S API COMET : {}
+[18-00-21] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 QT7 : 470234
+[18-00-21] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-21] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2022 QT7 d'un diamètre éstimé entre 5m et 10m passe actuellement à 470,234km de la #terre (soit 1.22 fois la distance terre-lune) à une vitesse de 7.7km/s (27728km/h) 🟠
+[18-00-21] (EVENT) PNG : CREATING PNG
+[18-00-21] (DATA) PNG : PNG './pngs/result_30-08-2022_18-00-04.png' CREATED
+[18-00-21] (EVENT) TWEET : POST INIT
+[18-00-21] (EVENT) TWEET : POST APPEND
+[18-00-22] (EVENT) TWEET : POST FINALIZE
+[18-00-22] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-23] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : Proxima_Vexin
+[18-00-23] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[31-08-2022]
+[18-00-04] (EVENT) NASA'S API : GATHERING DATA
+[18-00-19] (DATA) NASA'S API ASTEROID : {"des": "2022 QT7", "orbit_id": "2", "jd": "2459823.921989065", "cd": "2022-Sep-01 10:08", "dist": "0.00314491580683381", "dist_min": "0.00313903770222889", "dist_max": "0.00315079330849921", "v_rel": "7.69029403802526", "v_inf": "7.57932414909094", "t_sigma_f": "< 00:01", "h": "28.749", "diameter": null, "diameter_sigma": null}
+[18-00-19] (DATA) NASA'S API COMET : {}
+[18-00-19] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 QT7 : 470473
+[18-00-19] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-19] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2022 QT7 d'un diamètre éstimé entre 5m et 11m passe actuellement à 470,473km de la #terre (soit 1.22 fois la distance terre-lune) à une vitesse de 7.69km/s (27685km/h). Cet objet spacial s'est éloigné de 239km depuis hier 🟠
+[18-00-19] (EVENT) PNG : CREATING PNG
+[18-00-20] (DATA) PNG : PNG './pngs/result_31-08-2022_18-00-04.png' CREATED
+[18-00-20] (EVENT) TWEET : POST INIT
+[18-00-20] (EVENT) TWEET : POST APPEND
+[18-00-20] (EVENT) TWEET : POST FINALIZE
+[18-00-21] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-21] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : OliveAstro
+[18-00-22] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[01-09-2022]
+[18-00-04] (EVENT) NASA'S API : GATHERING DATA
+[18-00-23] (DATA) NASA'S API ASTEROID : {"des": "2022 QT7", "orbit_id": "2", "jd": "2459823.921989065", "cd": "2022-Sep-01 10:08", "dist": "0.00314491580683381", "dist_min": "0.00313903770222889", "dist_max": "0.00315079330849921", "v_rel": "7.69029403802526", "v_inf": "7.57932414909094", "t_sigma_f": "< 00:01", "h": "28.749", "diameter": null, "diameter_sigma": null}
+[18-00-23] (DATA) NASA'S API COMET : {}
+[18-00-23] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 QT7 : 470473
+[18-00-23] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-23] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2022 QT7 d'un diamètre éstimé entre 5m et 11m passe actuellement à 470,473km de la #terre (soit 1.22 fois la distance terre-lune) à une vitesse de 7.69km/s (27685km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-00-23] (EVENT) PNG : CREATING PNG
+[18-00-23] (DATA) PNG : PNG './pngs/result_01-09-2022_18-00-04.png' CREATED
+[18-00-23] (EVENT) TWEET : POST INIT
+[18-00-23] (EVENT) TWEET : POST APPEND
+[18-00-23] (EVENT) TWEET : POST FINALIZE
+[18-00-24] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-25] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : lilasprnn
+[18-00-25] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[02-09-2022]
+[18-00-04] (EVENT) NASA'S API : GATHERING DATA
+[18-00-22] (DATA) NASA'S API ASTEROID : {"des": "2020 TO2", "orbit_id": "7", "jd": "2459868.460286041", "cd": "2022-Oct-15 23:03", "dist": "0.00358199122491309", "dist_min": "0.00323378237782488", "dist_max": "0.0498506713271651", "v_rel": "12.5817267658203", "v_inf": "12.5224654098999", "t_sigma_f": "4_12:04", "h": "26.43", "diameter": null, "diameter_sigma": null}
+[18-00-22] (DATA) NASA'S API COMET : {}
+[18-00-22] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2020 TO2 : 535858
+[18-00-22] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-22] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2020 TO2 d'un diamètre éstimé entre 14m et 31m passe actuellement à 535,858km de la #terre (soit 1.39 fois la distance terre-lune) à une vitesse de 12.58km/s (45294km/h) 🟠
+[18-00-22] (EVENT) PNG : CREATING PNG
+[18-00-22] (DATA) PNG : PNG './pngs/result_02-09-2022_18-00-04.png' CREATED
+[18-00-22] (EVENT) TWEET : POST INIT
+[18-00-22] (EVENT) TWEET : POST APPEND
+[18-00-23] (EVENT) TWEET : POST FINALIZE
+[18-00-24] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-24] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : lilasprnn
+[18-00-25] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[03-09-2022]
+[18-00-02] (EVENT) NASA'S API : GATHERING DATA
+[18-00-55] (DATA) NASA'S API ASTEROID : {"des": "2020 TO2", "orbit_id": "7", "jd": "2459868.460286041", "cd": "2022-Oct-15 23:03", "dist": "0.00358199122491309", "dist_min": "0.00323378237782488", "dist_max": "0.0498506713271651", "v_rel": "12.5817267658203", "v_inf": "12.5224654098999", "t_sigma_f": "4_12:04", "h": "26.43", "diameter": null, "diameter_sigma": null}
+[18-00-55] (DATA) NASA'S API COMET : {}
+[18-00-55] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2020 TO2 : 535858
+[18-00-55] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-55] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2020 TO2 d'un diamètre éstimé entre 14m et 31m passe actuellement à 535,858km de la #terre (soit 1.39 fois la distance terre-lune) à une vitesse de 12.58km/s (45294km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-00-55] (EVENT) PNG : CREATING PNG
+[18-00-55] (DATA) PNG : PNG './pngs/result_03-09-2022_18-00-02.png' CREATED
+[18-00-55] (EVENT) TWEET : POST INIT
+[18-00-55] (EVENT) TWEET : POST APPEND
+[18-00-56] (EVENT) TWEET : POST FINALIZE
+[18-00-56] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-57] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : lesphotos_declo
+[18-00-57] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[04-09-2022]
+[18-00-02] (EVENT) NASA'S API : GATHERING DATA
+[18-00-21] (DATA) NASA'S API ASTEROID : {"des": "2020 TO2", "orbit_id": "7", "jd": "2459868.460286041", "cd": "2022-Oct-15 23:03", "dist": "0.00358199122491309", "dist_min": "0.00323378237782488", "dist_max": "0.0498506713271651", "v_rel": "12.5817267658203", "v_inf": "12.5224654098999", "t_sigma_f": "4_12:04", "h": "26.43", "diameter": null, "diameter_sigma": null}
+[18-00-21] (DATA) NASA'S API COMET : {}
+[18-00-21] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2020 TO2 : 535858
+[18-00-21] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-21] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2020 TO2 d'un diamètre éstimé entre 14m et 31m passe actuellement à 535,858km de la #terre (soit 1.39 fois la distance terre-lune) à une vitesse de 12.58km/s (45294km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-00-21] (EVENT) PNG : CREATING PNG
+[18-00-21] (DATA) PNG : PNG './pngs/result_04-09-2022_18-00-02.png' CREATED
+[18-00-21] (EVENT) TWEET : POST INIT
+[18-00-21] (EVENT) TWEET : POST APPEND
+[18-00-21] (EVENT) TWEET : POST FINALIZE
+[18-00-22] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-22] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : mikycel
+[18-00-23] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[05-09-2022]
+[18-00-03] (EVENT) NASA'S API : GATHERING DATA
+[18-00-18] (DATA) NASA'S API ASTEROID : {"des": "2020 TO2", "orbit_id": "7", "jd": "2459868.460286041", "cd": "2022-Oct-15 23:03", "dist": "0.00358199122491309", "dist_min": "0.00323378237782488", "dist_max": "0.0498506713271651", "v_rel": "12.5817267658203", "v_inf": "12.5224654098999", "t_sigma_f": "4_12:04", "h": "26.43", "diameter": null, "diameter_sigma": null}
+[18-00-18] (DATA) NASA'S API COMET : {}
+[18-00-18] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2020 TO2 : 535858
+[18-00-18] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-18] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2020 TO2 d'un diamètre éstimé entre 14m et 31m passe actuellement à 535,858km de la #terre (soit 1.39 fois la distance terre-lune) à une vitesse de 12.58km/s (45294km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-00-18] (EVENT) PNG : CREATING PNG
+[18-00-19] (DATA) PNG : PNG './pngs/result_05-09-2022_18-00-03.png' CREATED
+[18-00-19] (EVENT) TWEET : POST INIT
+[18-00-19] (EVENT) TWEET : POST APPEND
+[18-00-19] (EVENT) TWEET : POST FINALIZE
+[18-00-20] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-20] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : agricultrice81
+[18-00-21] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[06-09-2022]
+[18-00-03] (EVENT) NASA'S API : GATHERING DATA
+[18-00-25] (DATA) NASA'S API ASTEROID : {"des": "2020 TO2", "orbit_id": "7", "jd": "2459868.460286041", "cd": "2022-Oct-15 23:03", "dist": "0.00358199122491309", "dist_min": "0.00323378237782488", "dist_max": "0.0498506713271651", "v_rel": "12.5817267658203", "v_inf": "12.5224654098999", "t_sigma_f": "4_12:04", "h": "26.43", "diameter": null, "diameter_sigma": null}
+[18-00-25] (DATA) NASA'S API COMET : {}
+[18-00-25] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2020 TO2 : 535858
+[18-00-25] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-25] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2020 TO2 d'un diamètre éstimé entre 14m et 31m passe actuellement à 535,858km de la #terre (soit 1.39 fois la distance terre-lune) à une vitesse de 12.58km/s (45294km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-00-25] (EVENT) PNG : CREATING PNG
+[18-00-25] (DATA) PNG : PNG './pngs/result_06-09-2022_18-00-03.png' CREATED
+[18-00-25] (EVENT) TWEET : POST INIT
+[18-00-25] (EVENT) TWEET : POST APPEND
+[18-00-26] (EVENT) TWEET : POST FINALIZE
+[18-00-26] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-27] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : LjzFranck
+[18-00-27] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[07-09-2022]
+[18-00-04] (EVENT) NASA'S API : GATHERING DATA
+[18-00-21] (DATA) NASA'S API ASTEROID : {"des": "2020 TO2", "orbit_id": "7", "jd": "2459868.460286041", "cd": "2022-Oct-15 23:03", "dist": "0.00358199122491309", "dist_min": "0.00323378237782488", "dist_max": "0.0498506713271651", "v_rel": "12.5817267658203", "v_inf": "12.5224654098999", "t_sigma_f": "4_12:04", "h": "26.43", "diameter": null, "diameter_sigma": null}
+[18-00-21] (DATA) NASA'S API COMET : {}
+[18-00-21] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2020 TO2 : 535858
+[18-00-21] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-21] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2020 TO2 d'un diamètre estimé entre 14m et 31m passe actuellement à 535,858km de la #terre (soit 1.39 fois la distance terre-lune) à une vitesse de 12.58km/s (45294km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-00-21] (EVENT) PNG : CREATING PNG
+[18-00-21] (DATA) PNG : PNG './pngs/result_07-09-2022_18-00-04.png' CREATED
+[18-00-21] (EVENT) TWEET : POST INIT
+[18-00-21] (EVENT) TWEET : POST APPEND
+[18-00-21] (EVENT) TWEET : POST FINALIZE
+[18-00-22] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-23] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : LjzFranck
+[18-00-23] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[08-09-2022]
+[18-00-03] (EVENT) NASA'S API : GATHERING DATA
+[18-00-22] (DATA) NASA'S API ASTEROID : {"des": "2020 TO2", "orbit_id": "7", "jd": "2459868.460286041", "cd": "2022-Oct-15 23:03", "dist": "0.00358199122491309", "dist_min": "0.00323378237782488", "dist_max": "0.0498506713271651", "v_rel": "12.5817267658203", "v_inf": "12.5224654098999", "t_sigma_f": "4_12:04", "h": "26.43", "diameter": null, "diameter_sigma": null}
+[18-00-22] (DATA) NASA'S API COMET : {}
+[18-00-22] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2020 TO2 : 535858
+[18-00-22] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-22] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2020 TO2 d'un diamètre estimé entre 14m et 31m passe actuellement à 535,858km de la #terre (soit 1.39 fois la distance terre-lune) à une vitesse de 12.58km/s (45294km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-00-22] (EVENT) PNG : CREATING PNG
+[18-00-23] (DATA) PNG : PNG './pngs/result_08-09-2022_18-00-03.png' CREATED
+[18-00-23] (EVENT) TWEET : POST INIT
+[18-00-23] (EVENT) TWEET : POST APPEND
+[18-00-23] (EVENT) TWEET : POST FINALIZE
+[18-00-24] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-24] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : LjzFranck
+[18-00-25] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[09-09-2022]
+[18-00-03] (EVENT) NASA'S API : GATHERING DATA
+[18-00-19] (DATA) NASA'S API ASTEROID : {"des": "2020 TO2", "orbit_id": "7", "jd": "2459868.460286041", "cd": "2022-Oct-15 23:03", "dist": "0.00358199122491309", "dist_min": "0.00323378237782488", "dist_max": "0.0498506713271651", "v_rel": "12.5817267658203", "v_inf": "12.5224654098999", "t_sigma_f": "4_12:04", "h": "26.43", "diameter": null, "diameter_sigma": null}
+[18-00-19] (DATA) NASA'S API COMET : {}
+[18-00-19] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2020 TO2 : 535858
+[18-00-19] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-19] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2020 TO2 d'un diamètre estimé entre 14m et 31m passe actuellement à 535,858km de la #terre (soit 1.39 fois la distance terre-lune) à une vitesse de 12.58km/s (45294km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-00-19] (EVENT) PNG : CREATING PNG
+[18-00-19] (DATA) PNG : PNG './pngs/result_09-09-2022_18-00-03.png' CREATED
+[18-00-19] (EVENT) TWEET : POST INIT
+[18-00-20] (EVENT) TWEET : POST APPEND
+[18-00-20] (EVENT) TWEET : POST FINALIZE
+[18-00-21] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-21] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : LjzFranck
+[18-00-21] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[10-09-2022]
+[18-00-03] (EVENT) NASA'S API : GATHERING DATA
+[18-00-19] (DATA) NASA'S API ASTEROID : {"des": "2020 TO2", "orbit_id": "7", "jd": "2459868.460286041", "cd": "2022-Oct-15 23:03", "dist": "0.00358199122491309", "dist_min": "0.00323378237782488", "dist_max": "0.0498506713271651", "v_rel": "12.5817267658203", "v_inf": "12.5224654098999", "t_sigma_f": "4_12:04", "h": "26.43", "diameter": null, "diameter_sigma": null}
+[18-00-19] (DATA) NASA'S API COMET : {}
+[18-00-19] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2020 TO2 : 535858
+[18-00-19] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-19] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2020 TO2 d'un diamètre estimé entre 14m et 31m passe actuellement à 535,858km de la #terre (soit 1.39 fois la distance terre-lune) à une vitesse de 12.58km/s (45294km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-00-19] (EVENT) PNG : CREATING PNG
+[18-00-19] (DATA) PNG : PNG './pngs/result_10-09-2022_18-00-03.png' CREATED
+[18-00-19] (EVENT) TWEET : POST INIT
+[18-00-19] (EVENT) TWEET : POST APPEND
+[18-00-19] (EVENT) TWEET : POST FINALIZE
+[18-00-20] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-21] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : LjzFranck
+[18-00-21] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[11-09-2022]
+[18-00-03] (EVENT) NASA'S API : GATHERING DATA
+[18-00-18] (DATA) NASA'S API ASTEROID : {"des": "2020 TO2", "orbit_id": "7", "jd": "2459868.460286041", "cd": "2022-Oct-15 23:03", "dist": "0.00358199122491309", "dist_min": "0.00323378237782488", "dist_max": "0.0498506713271651", "v_rel": "12.5817267658203", "v_inf": "12.5224654098999", "t_sigma_f": "4_12:04", "h": "26.43", "diameter": null, "diameter_sigma": null}
+[18-00-18] (DATA) NASA'S API COMET : {}
+[18-00-18] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2020 TO2 : 535858
+[18-00-18] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-18] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2020 TO2 d'un diamètre estimé entre 14m et 31m passe actuellement à 535,858km de la #terre (soit 1.39 fois la distance terre-lune) à une vitesse de 12.58km/s (45294km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-00-18] (EVENT) PNG : CREATING PNG
+[18-00-18] (DATA) PNG : PNG './pngs/result_11-09-2022_18-00-03.png' CREATED
+[18-00-18] (EVENT) TWEET : POST INIT
+[18-00-18] (EVENT) TWEET : POST APPEND
+[18-00-18] (EVENT) TWEET : POST FINALIZE
+[18-00-19] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-19] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : LjzFranck
+[18-00-19] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[12-09-2022]
+[18-00-04] (EVENT) NASA'S API : GATHERING DATA
+[18-00-25] (DATA) NASA'S API ASTEROID : {"des": "2020 TO2", "orbit_id": "7", "jd": "2459868.460286041", "cd": "2022-Oct-15 23:03", "dist": "0.00358199122491309", "dist_min": "0.00323378237782488", "dist_max": "0.0498506713271651", "v_rel": "12.5817267658203", "v_inf": "12.5224654098999", "t_sigma_f": "4_12:04", "h": "26.43", "diameter": null, "diameter_sigma": null}
+[18-00-25] (DATA) NASA'S API COMET : {}
+[18-00-25] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2020 TO2 : 535858
+[18-00-25] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-25] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2020 TO2 d'un diamètre estimé entre 14m et 31m passe actuellement à 535,858km de la #terre (soit 1.39 fois la distance terre-lune) à une vitesse de 12.58km/s (45294km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-00-25] (EVENT) PNG : CREATING PNG
+[18-00-25] (DATA) PNG : PNG './pngs/result_12-09-2022_18-00-04.png' CREATED
+[18-00-25] (EVENT) TWEET : POST INIT
+[18-00-25] (EVENT) TWEET : POST APPEND
+[18-00-26] (EVENT) TWEET : POST FINALIZE
+[18-00-27] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-27] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : LjzFranck
+[18-00-27] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[13-09-2022]
+[18-00-03] (EVENT) NASA'S API : GATHERING DATA
+[18-00-21] (DATA) NASA'S API ASTEROID : {"des": "2020 TO2", "orbit_id": "7", "jd": "2459868.460286041", "cd": "2022-Oct-15 23:03", "dist": "0.00358199122491309", "dist_min": "0.00323378237782488", "dist_max": "0.0498506713271651", "v_rel": "12.5817267658203", "v_inf": "12.5224654098999", "t_sigma_f": "4_12:04", "h": "26.43", "diameter": null, "diameter_sigma": null}
+[18-00-21] (DATA) NASA'S API COMET : {}
+[18-00-21] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2020 TO2 : 535858
+[18-00-21] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-21] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2020 TO2 d'un diamètre estimé entre 14m et 31m passe actuellement à 535,858km de la #terre (soit 1.39 fois la distance terre-lune) à une vitesse de 12.58km/s (45294km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-00-21] (EVENT) PNG : CREATING PNG
+[18-00-21] (DATA) PNG : PNG './pngs/result_13-09-2022_18-00-03.png' CREATED
+[18-00-21] (EVENT) TWEET : POST INIT
+[18-00-21] (EVENT) TWEET : POST APPEND
+[18-00-21] (EVENT) TWEET : POST FINALIZE
+[18-00-22] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-23] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : QLemarechal
+[18-00-23] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[14-09-2022]
+[18-00-03] (EVENT) NASA'S API : GATHERING DATA
+[18-00-30] (DATA) NASA'S API ASTEROID : {"des": "2020 TO2", "orbit_id": "7", "jd": "2459868.460286041", "cd": "2022-Oct-15 23:03", "dist": "0.00358199122491309", "dist_min": "0.00323378237782488", "dist_max": "0.0498506713271651", "v_rel": "12.5817267658203", "v_inf": "12.5224654098999", "t_sigma_f": "4_12:04", "h": "26.43", "diameter": null, "diameter_sigma": null}
+[18-00-30] (DATA) NASA'S API COMET : {}
+[18-00-30] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2020 TO2 : 535858
+[18-00-30] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-30] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2020 TO2 d'un diamètre estimé entre 14m et 31m passe actuellement à 535,858km de la #terre (soit 1.39 fois la distance terre-lune) à une vitesse de 12.58km/s (45294km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-00-30] (EVENT) PNG : CREATING PNG
+[18-00-30] (DATA) PNG : PNG './pngs/result_14-09-2022_18-00-03.png' CREATED
+[18-00-30] (EVENT) TWEET : POST INIT
+[18-00-30] (EVENT) TWEET : POST APPEND
+[18-00-30] (EVENT) TWEET : POST FINALIZE
+[18-00-31] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-31] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : QLemarechal
+[18-00-32] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[15-09-2022]
+[18-00-03] (EVENT) NASA'S API : GATHERING DATA
+[18-00-27] (DATA) NASA'S API ASTEROID : {"des": "2020 TO2", "orbit_id": "7", "jd": "2459868.460286041", "cd": "2022-Oct-15 23:03", "dist": "0.00358199122491309", "dist_min": "0.00323378237782488", "dist_max": "0.0498506713271651", "v_rel": "12.5817267658203", "v_inf": "12.5224654098999", "t_sigma_f": "4_12:04", "h": "26.43", "diameter": null, "diameter_sigma": null}
+[18-00-27] (DATA) NASA'S API COMET : {}
+[18-00-27] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2020 TO2 : 535858
+[18-00-27] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-27] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2020 TO2 d'un diamètre estimé entre 14m et 31m passe actuellement à 535,858km de la #terre (soit 1.39 fois la distance terre-lune) à une vitesse de 12.58km/s (45294km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-00-27] (EVENT) PNG : CREATING PNG
+[18-00-27] (DATA) PNG : PNG './pngs/result_15-09-2022_18-00-03.png' CREATED
+[18-00-27] (EVENT) TWEET : POST INIT
+[18-00-27] (EVENT) TWEET : POST APPEND
+[18-00-27] (EVENT) TWEET : POST FINALIZE
+[18-00-28] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-29] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : QLemarechal
+[18-00-29] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[16-09-2022]
+[18-00-03] (EVENT) NASA'S API : GATHERING DATA
+[18-01-06] (DATA) NASA'S API ASTEROID : {"des": "2020 TO2", "orbit_id": "7", "jd": "2459868.460286041", "cd": "2022-Oct-15 23:03", "dist": "0.00358199122491309", "dist_min": "0.00323378237782488", "dist_max": "0.0498506713271651", "v_rel": "12.5817267658203", "v_inf": "12.5224654098999", "t_sigma_f": "4_12:04", "h": "26.43", "diameter": null, "diameter_sigma": null}
+[18-01-06] (DATA) NASA'S API COMET : {}
+[18-01-06] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2020 TO2 : 535858
+[18-01-06] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-01-06] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2020 TO2 d'un diamètre estimé entre 14m et 31m passe actuellement à 535,858km de la #terre (soit 1.39 fois la distance terre-lune) à une vitesse de 12.58km/s (45294km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-01-06] (EVENT) PNG : CREATING PNG
+[18-01-06] (DATA) PNG : PNG './pngs/result_16-09-2022_18-00-03.png' CREATED
+[18-01-06] (EVENT) TWEET : POST INIT
+[18-01-07] (EVENT) TWEET : POST APPEND
+[18-01-07] (EVENT) TWEET : POST FINALIZE
+[18-01-08] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-01-08] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : QLemarechal
+[18-01-08] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[17-09-2022]
+[18-00-02] (EVENT) NASA'S API : GATHERING DATA
+[18-00-22] (DATA) NASA'S API ASTEROID : {"des": "2020 TO2", "orbit_id": "7", "jd": "2459868.460286041", "cd": "2022-Oct-15 23:03", "dist": "0.00358199122491309", "dist_min": "0.00323378237782488", "dist_max": "0.0498506713271651", "v_rel": "12.5817267658203", "v_inf": "12.5224654098999", "t_sigma_f": "4_12:04", "h": "26.43", "diameter": null, "diameter_sigma": null}
+[18-00-22] (DATA) NASA'S API COMET : {}
+[18-00-22] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2020 TO2 : 535858
+[18-00-22] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-22] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2020 TO2 d'un diamètre estimé entre 14m et 31m passe actuellement à 535,858km de la #terre (soit 1.39 fois la distance terre-lune) à une vitesse de 12.58km/s (45294km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-00-22] (EVENT) PNG : CREATING PNG
+[18-00-22] (DATA) PNG : PNG './pngs/result_17-09-2022_18-00-02.png' CREATED
+[18-00-22] (EVENT) TWEET : POST INIT
+[18-00-22] (EVENT) TWEET : POST APPEND
+[18-00-22] (EVENT) TWEET : POST FINALIZE
+[18-00-23] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-23] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : QLemarechal
+[18-00-24] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[18-09-2022]
+[18-00-02] (EVENT) NASA'S API : GATHERING DATA
+[18-00-19] (DATA) NASA'S API ASTEROID : {"des": "2020 TO2", "orbit_id": "7", "jd": "2459868.460286041", "cd": "2022-Oct-15 23:03", "dist": "0.00358199122491309", "dist_min": "0.00323378237782488", "dist_max": "0.0498506713271651", "v_rel": "12.5817267658203", "v_inf": "12.5224654098999", "t_sigma_f": "4_12:04", "h": "26.43", "diameter": null, "diameter_sigma": null}
+[18-00-19] (DATA) NASA'S API COMET : {}
+[18-00-19] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2020 TO2 : 535858
+[18-00-19] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-19] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2020 TO2 d'un diamètre estimé entre 14m et 31m passe actuellement à 535,858km de la #terre (soit 1.39 fois la distance terre-lune) à une vitesse de 12.58km/s (45294km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-00-19] (EVENT) PNG : CREATING PNG
+[18-00-19] (DATA) PNG : PNG './pngs/result_18-09-2022_18-00-02.png' CREATED
+[18-00-19] (EVENT) TWEET : POST INIT
+[18-00-19] (EVENT) TWEET : POST APPEND
+[18-00-19] (EVENT) TWEET : POST FINALIZE
+[18-00-20] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-20] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : QLemarechal
+[18-00-21] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[19-09-2022]
+[18-00-04] (EVENT) NASA'S API : GATHERING DATA
+[18-00-22] (DATA) NASA'S API ASTEROID : {"des": "2020 TO2", "orbit_id": "7", "jd": "2459868.460286041", "cd": "2022-Oct-15 23:03", "dist": "0.00358199122491309", "dist_min": "0.00323378237782488", "dist_max": "0.0498506713271651", "v_rel": "12.5817267658203", "v_inf": "12.5224654098999", "t_sigma_f": "4_12:04", "h": "26.43", "diameter": null, "diameter_sigma": null}
+[18-00-22] (DATA) NASA'S API COMET : {}
+[18-00-22] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2020 TO2 : 535858
+[18-00-22] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-22] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2020 TO2 d'un diamètre estimé entre 14m et 31m passe actuellement à 535,858km de la #terre (soit 1.39 fois la distance terre-lune) à une vitesse de 12.58km/s (45294km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-00-22] (EVENT) PNG : CREATING PNG
+[18-00-22] (DATA) PNG : PNG './pngs/result_19-09-2022_18-00-04.png' CREATED
+[18-00-22] (EVENT) TWEET : POST INIT
+[18-00-22] (EVENT) TWEET : POST APPEND
+[18-00-22] (EVENT) TWEET : POST FINALIZE
+[18-00-23] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-24] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : QLemarechal
+[18-00-24] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[20-09-2022]
+[18-00-04] (EVENT) NASA'S API : GATHERING DATA
+[18-00-25] (DATA) NASA'S API ASTEROID : {"des": "2022 SR2", "orbit_id": "1", "jd": "2459844.299591581", "cd": "2022-Sep-21 19:11", "dist": "0.00300369129911633", "dist_min": "0.00298029891148052", "dist_max": "0.00302708266561443", "v_rel": "21.782214523572", "v_inf": "21.7414519512486", "t_sigma_f": "00:04", "h": "27.93", "diameter": null, "diameter_sigma": null}
+[18-00-25] (DATA) NASA'S API COMET : {}
+[18-00-25] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 SR2 : 449346
+[18-00-25] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-25] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2022 SR2 d'un diamètre estimé entre 7m et 15m passe actuellement à 449,346km de la #terre (soit 1.17 fois la distance terre-lune) à une vitesse de 21.78km/s (78416km/h) 🟠
+[18-00-25] (EVENT) PNG : CREATING PNG
+[18-00-25] (DATA) PNG : PNG './pngs/result_20-09-2022_18-00-04.png' CREATED
+[18-00-25] (EVENT) TWEET : POST INIT
+[18-00-25] (EVENT) TWEET : POST APPEND
+[18-00-26] (EVENT) TWEET : POST FINALIZE
+[18-00-26] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-27] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : QLemarechal
+[18-00-27] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[21-09-2022]
+[18-00-04] (EVENT) NASA'S API : GATHERING DATA
+[18-00-28] (DATA) NASA'S API ASTEROID : {"des": "2022 SR2", "orbit_id": "2", "jd": "2459844.299547921", "cd": "2022-Sep-21 19:11", "dist": "0.0029970049327116", "dist_min": "0.0029900196747869", "dist_max": "0.00300399007355009", "v_rel": "21.7353286483511", "v_inf": "21.6943867560704", "t_sigma_f": "< 00:01", "h": "27.949", "diameter": null, "diameter_sigma": null}
+[18-00-28] (DATA) NASA'S API COMET : {}
+[18-00-28] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 SR2 : 448346
+[18-00-28] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-28] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2022 SR2 d'un diamètre estimé entre 7m et 15m passe actuellement à 448,346km de la #terre (soit 1.17 fois la distance terre-lune) à une vitesse de 21.74km/s (78247km/h). Cet objet spacial s'est rapproché de 1,000km depuis hier 🟠
+[18-00-28] (EVENT) PNG : CREATING PNG
+[18-00-28] (DATA) PNG : PNG './pngs/result_21-09-2022_18-00-04.png' CREATED
+[18-00-28] (EVENT) TWEET : POST INIT
+[18-00-28] (EVENT) TWEET : POST APPEND
+[18-00-29] (EVENT) TWEET : POST FINALIZE
+[18-00-30] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-30] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : QLemarechal
+[18-00-30] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[22-09-2022]
+[18-00-05] (EVENT) NASA'S API : GATHERING DATA
+[18-01-23] (DATA) NASA'S API ASTEROID : {"des": "2020 TO2", "orbit_id": "7", "jd": "2459868.460286041", "cd": "2022-Oct-15 23:03", "dist": "0.00358199122491309", "dist_min": "0.00323378237782488", "dist_max": "0.0498506713271651", "v_rel": "12.5817267658203", "v_inf": "12.5224654098999", "t_sigma_f": "4_12:04", "h": "26.43", "diameter": null, "diameter_sigma": null}
+[18-01-23] (DATA) NASA'S API COMET : {}
+[18-01-23] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2020 TO2 : 535858
+[18-01-23] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-01-23] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2020 TO2 d'un diamètre estimé entre 14m et 31m passe actuellement à 535,858km de la #terre (soit 1.39 fois la distance terre-lune) à une vitesse de 12.58km/s (45294km/h) 🟠
+[18-01-23] (EVENT) PNG : CREATING PNG
+[18-01-23] (DATA) PNG : PNG './pngs/result_22-09-2022_18-00-05.png' CREATED
+[18-01-23] (EVENT) TWEET : POST INIT
+[18-01-23] (EVENT) TWEET : POST APPEND
+[18-01-23] (EVENT) TWEET : POST FINALIZE
+[18-01-24] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-01-24] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : QLemarechal
+[18-01-25] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[23-09-2022]
+[18-00-04] (EVENT) NASA'S API : GATHERING DATA
+[18-01-05] (DATA) NASA'S API ASTEROID : {"des": "2020 TO2", "orbit_id": "7", "jd": "2459868.460286041", "cd": "2022-Oct-15 23:03", "dist": "0.00358199122491309", "dist_min": "0.00323378237782488", "dist_max": "0.0498506713271651", "v_rel": "12.5817267658203", "v_inf": "12.5224654098999", "t_sigma_f": "4_12:04", "h": "26.43", "diameter": null, "diameter_sigma": null}
+[18-01-05] (DATA) NASA'S API COMET : {}
+[18-01-05] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2020 TO2 : 535858
+[18-01-05] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-01-05] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2020 TO2 d'un diamètre estimé entre 14m et 31m passe actuellement à 535,858km de la #terre (soit 1.39 fois la distance terre-lune) à une vitesse de 12.58km/s (45294km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-01-05] (EVENT) PNG : CREATING PNG
+[18-01-05] (DATA) PNG : PNG './pngs/result_23-09-2022_18-00-04.png' CREATED
+[18-01-05] (EVENT) TWEET : POST INIT
+[18-01-05] (EVENT) TWEET : POST APPEND
+[18-01-05] (EVENT) TWEET : POST FINALIZE
+[18-01-07] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-01-07] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : XavierMalakoff
+[18-01-07] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[24-09-2022]
+[18-00-03] (EVENT) NASA'S API : GATHERING DATA
+[18-00-55] (DATA) NASA'S API ASTEROID : {"des": "2020 TO2", "orbit_id": "7", "jd": "2459868.460286041", "cd": "2022-Oct-15 23:03", "dist": "0.00358199122491309", "dist_min": "0.00323378237782488", "dist_max": "0.0498506713271651", "v_rel": "12.5817267658203", "v_inf": "12.5224654098999", "t_sigma_f": "4_12:04", "h": "26.43", "diameter": null, "diameter_sigma": null}
+[18-00-55] (DATA) NASA'S API COMET : {}
+[18-00-55] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2020 TO2 : 535858
+[18-00-55] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-55] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2020 TO2 d'un diamètre estimé entre 14m et 31m passe actuellement à 535,858km de la #terre (soit 1.39 fois la distance terre-lune) à une vitesse de 12.58km/s (45294km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-00-55] (EVENT) PNG : CREATING PNG
+[18-00-55] (DATA) PNG : PNG './pngs/result_24-09-2022_18-00-03.png' CREATED
+[18-00-55] (EVENT) TWEET : POST INIT
+[18-00-55] (EVENT) TWEET : POST APPEND
+[18-00-56] (EVENT) TWEET : POST FINALIZE
+[18-00-57] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-57] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : XavierMalakoff
+[18-00-57] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[25-09-2022]
+[18-00-03] (EVENT) NASA'S API : GATHERING DATA
+[18-01-03] (DATA) NASA'S API ASTEROID : {"des": "2020 TO2", "orbit_id": "7", "jd": "2459868.460286041", "cd": "2022-Oct-15 23:03", "dist": "0.00358199122491309", "dist_min": "0.00323378237782488", "dist_max": "0.0498506713271651", "v_rel": "12.5817267658203", "v_inf": "12.5224654098999", "t_sigma_f": "4_12:04", "h": "26.43", "diameter": null, "diameter_sigma": null}
+[18-01-03] (DATA) NASA'S API COMET : {}
+[18-01-03] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2020 TO2 : 535858
+[18-01-03] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-01-03] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2020 TO2 d'un diamètre estimé entre 14m et 31m passe actuellement à 535,858km de la #terre (soit 1.39 fois la distance terre-lune) à une vitesse de 12.58km/s (45294km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-01-03] (EVENT) PNG : CREATING PNG
+[18-01-03] (DATA) PNG : PNG './pngs/result_25-09-2022_18-00-03.png' CREATED
+[18-01-03] (EVENT) TWEET : POST INIT
+[18-01-03] (EVENT) TWEET : POST APPEND
+[18-01-03] (EVENT) TWEET : POST FINALIZE
+[18-01-04] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-01-05] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : XavierMalakoff
+[18-01-05] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[26-09-2022]
+[18-00-04] (EVENT) NASA'S API : GATHERING DATA
+[18-00-18] (DATA) NASA'S API ASTEROID : {"des": "2020 TO2", "orbit_id": "7", "jd": "2459868.460286041", "cd": "2022-Oct-15 23:03", "dist": "0.00358199122491309", "dist_min": "0.00323378237782488", "dist_max": "0.0498506713271651", "v_rel": "12.5817267658203", "v_inf": "12.5224654098999", "t_sigma_f": "4_12:04", "h": "26.43", "diameter": null, "diameter_sigma": null}
+[18-00-18] (DATA) NASA'S API COMET : {}
+[18-00-18] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2020 TO2 : 535858
+[18-00-18] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-18] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2020 TO2 d'un diamètre estimé entre 14m et 31m passe actuellement à 535,858km de la #terre (soit 1.39 fois la distance terre-lune) à une vitesse de 12.58km/s (45294km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-00-18] (EVENT) PNG : CREATING PNG
+[18-00-18] (DATA) PNG : PNG './pngs/result_26-09-2022_18-00-04.png' CREATED
+[18-00-18] (EVENT) TWEET : POST INIT
+[18-00-18] (EVENT) TWEET : POST APPEND
+[18-00-19] (EVENT) TWEET : POST FINALIZE
+[18-00-19] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-20] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : XavierMalakoff
+[18-00-20] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[27-09-2022]
+[18-00-04] (EVENT) NASA'S API : GATHERING DATA
+[18-01-33] (DATA) NASA'S API ASTEROID : {"des": "2020 TO2", "orbit_id": "7", "jd": "2459868.460286041", "cd": "2022-Oct-15 23:03", "dist": "0.00358199122491309", "dist_min": "0.00323378237782488", "dist_max": "0.0498506713271651", "v_rel": "12.5817267658203", "v_inf": "12.5224654098999", "t_sigma_f": "4_12:04", "h": "26.43", "diameter": null, "diameter_sigma": null}
+[18-01-33] (DATA) NASA'S API COMET : {}
+[18-01-33] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2020 TO2 : 535858
+[18-01-33] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-01-33] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2020 TO2 d'un diamètre estimé entre 14m et 31m passe actuellement à 535,858km de la #terre (soit 1.39 fois la distance terre-lune) à une vitesse de 12.58km/s (45294km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-01-33] (EVENT) PNG : CREATING PNG
+[18-01-33] (DATA) PNG : PNG './pngs/result_27-09-2022_18-00-04.png' CREATED
+[18-01-33] (EVENT) TWEET : POST INIT
+[18-01-33] (EVENT) TWEET : POST APPEND
+[18-01-34] (EVENT) TWEET : POST FINALIZE
+[18-01-35] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-01-35] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : DuckDAWorld
+[18-01-36] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[28-09-2022]
+[18-00-02] (EVENT) NASA'S API : GATHERING DATA
+[18-00-24] (DATA) NASA'S API ASTEROID : {"des": "2020 TO2", "orbit_id": "7", "jd": "2459868.460286041", "cd": "2022-Oct-15 23:03", "dist": "0.00358199122491309", "dist_min": "0.00323378237782488", "dist_max": "0.0498506713271651", "v_rel": "12.5817267658203", "v_inf": "12.5224654098999", "t_sigma_f": "4_12:04", "h": "26.43", "diameter": null, "diameter_sigma": null}
+[18-00-24] (DATA) NASA'S API COMET : {}
+[18-00-24] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2020 TO2 : 535858
+[18-00-24] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-24] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2020 TO2 d'un diamètre estimé entre 14m et 31m passe actuellement à 535,858km de la #terre (soit 1.39 fois la distance terre-lune) à une vitesse de 12.58km/s (45294km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-00-24] (EVENT) PNG : CREATING PNG
+[18-00-24] (DATA) PNG : PNG './pngs/result_28-09-2022_18-00-02.png' CREATED
+[18-00-24] (EVENT) TWEET : POST INIT
+[18-00-24] (EVENT) TWEET : POST APPEND
+[18-00-24] (EVENT) TWEET : POST FINALIZE
+[18-00-26] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-26] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : DuckDAWorld
+[18-00-27] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[29-09-2022]
+[18-00-04] (EVENT) NASA'S API : GATHERING DATA
+[18-00-43] (DATA) NASA'S API ASTEROID : {"des": "2020 TO2", "orbit_id": "7", "jd": "2459868.460286041", "cd": "2022-Oct-15 23:03", "dist": "0.00358199122491309", "dist_min": "0.00323378237782488", "dist_max": "0.0498506713271651", "v_rel": "12.5817267658203", "v_inf": "12.5224654098999", "t_sigma_f": "4_12:04", "h": "26.43", "diameter": null, "diameter_sigma": null}
+[18-00-43] (DATA) NASA'S API COMET : {}
+[18-00-43] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2020 TO2 : 535858
+[18-00-43] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-43] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2020 TO2 d'un diamètre estimé entre 14m et 31m passe actuellement à 535,858km de la #terre (soit 1.39 fois la distance terre-lune) à une vitesse de 12.58km/s (45294km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-00-43] (EVENT) PNG : CREATING PNG
+[18-00-43] (DATA) PNG : PNG './pngs/result_29-09-2022_18-00-04.png' CREATED
+[18-00-43] (EVENT) TWEET : POST INIT
+[18-00-43] (EVENT) TWEET : POST APPEND
+[18-00-44] (EVENT) TWEET : POST FINALIZE
+[18-00-45] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-45] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : DuckDAWorld
+[18-00-45] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[30-09-2022]
+[18-00-04] (EVENT) NASA'S API : GATHERING DATA
+[18-00-58] (DATA) NASA'S API ASTEROID : {"des": "2022 SW24", "orbit_id": "1", "jd": "2459852.922326988", "cd": "2022-Sep-30 10:08", "dist": "0.00317142915473209", "dist_min": "0.00316509639751098", "dist_max": "0.0031777615863939", "v_rel": "10.8262129469907", "v_inf": "10.7483293956474", "t_sigma_f": "00:01", "h": "28.344", "diameter": null, "diameter_sigma": null}
+[18-00-58] (DATA) NASA'S API COMET : {}
+[18-00-58] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 SW24 : 474439
+[18-00-58] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-58] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2022 SW24 d'un diamètre estimé entre 6m et 13m passe actuellement à 474,439km de la #terre (soit 1.23 fois la distance terre-lune) à une vitesse de 10.83km/s (38974km/h) 🟠
+[18-00-58] (EVENT) PNG : CREATING PNG
+[18-00-58] (DATA) PNG : PNG './pngs/result_30-09-2022_18-00-04.png' CREATED
+[18-00-58] (EVENT) TWEET : POST INIT
+[18-00-59] (EVENT) TWEET : POST APPEND
+[18-00-59] (EVENT) TWEET : POST FINALIZE
+[18-01-00] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-01-01] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : ladislaspolski
+[18-01-01] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[01-10-2022]
+[18-00-02] (EVENT) NASA'S API : GATHERING DATA
+[18-01-01] (DATA) NASA'S API ASTEROID : {"des": "2020 TO2", "orbit_id": "7", "jd": "2459868.460286041", "cd": "2022-Oct-15 23:03", "dist": "0.00358199122491309", "dist_min": "0.00323378237782488", "dist_max": "0.0498506713271651", "v_rel": "12.5817267658203", "v_inf": "12.5224654098999", "t_sigma_f": "4_12:04", "h": "26.43", "diameter": null, "diameter_sigma": null}
+[18-01-01] (DATA) NASA'S API COMET : {}
+[18-01-01] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2020 TO2 : 535858
+[18-01-01] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-01-01] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2020 TO2 d'un diamètre estimé entre 14m et 31m passe actuellement à 535,858km de la #terre (soit 1.39 fois la distance terre-lune) à une vitesse de 12.58km/s (45294km/h) 🟠
+[18-01-01] (EVENT) PNG : CREATING PNG
+[18-01-01] (DATA) PNG : PNG './pngs/result_01-10-2022_18-00-02.png' CREATED
+[18-01-01] (EVENT) TWEET : POST INIT
+[18-01-01] (EVENT) TWEET : POST APPEND
+[18-01-02] (EVENT) TWEET : POST FINALIZE
+[18-01-03] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-01-03] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : Mr_Yotsuya
+[18-01-03] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[02-10-2022]
+[18-00-02] (EVENT) NASA'S API : GATHERING DATA
+[18-00-18] (DATA) NASA'S API ASTEROID : {"des": "2020 TO2", "orbit_id": "7", "jd": "2459868.460286041", "cd": "2022-Oct-15 23:03", "dist": "0.00358199122491309", "dist_min": "0.00323378237782488", "dist_max": "0.0498506713271651", "v_rel": "12.5817267658203", "v_inf": "12.5224654098999", "t_sigma_f": "4_12:04", "h": "26.43", "diameter": null, "diameter_sigma": null}
+[18-00-18] (DATA) NASA'S API COMET : {}
+[18-00-18] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2020 TO2 : 535858
+[18-00-18] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-18] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2020 TO2 d'un diamètre estimé entre 14m et 31m passe actuellement à 535,858km de la #terre (soit 1.39 fois la distance terre-lune) à une vitesse de 12.58km/s (45294km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-00-18] (EVENT) PNG : CREATING PNG
+[18-00-18] (DATA) PNG : PNG './pngs/result_02-10-2022_18-00-02.png' CREATED
+[18-00-18] (EVENT) TWEET : POST INIT
+[18-00-18] (EVENT) TWEET : POST APPEND
+[18-00-19] (EVENT) TWEET : POST FINALIZE
+[18-00-20] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-20] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : Mr_Yotsuya
+[18-00-20] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[03-10-2022]
+[18-00-04] (EVENT) NASA'S API : GATHERING DATA
+[18-00-25] (DATA) NASA'S API ASTEROID : {"des": "2022 TD", "orbit_id": "1", "jd": "2459858.661749884", "cd": "2022-Oct-06 03:53", "dist": "0.00248954117851252", "dist_min": "0.00248276654288668", "dist_max": "0.00249631560062666", "v_rel": "10.1134062245078", "v_inf": "10.0070198854355", "t_sigma_f": "00:07", "h": "27.768", "diameter": null, "diameter_sigma": null}
+[18-00-25] (DATA) NASA'S API COMET : {}
+[18-00-25] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 TD : 372430
+[18-00-25] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-25] (DATA) TWEET'S TEXT : 🔴 L'#asteroide 2022 TD d'un diamètre estimé entre 7m et 17m passe actuellement à 372,430km de la #terre (soit 0.97 fois la distance terre-lune) à une vitesse de 10.11km/s (36408km/h) 🔴
+[18-00-25] (EVENT) PNG : CREATING PNG
+[18-00-25] (DATA) PNG : PNG './pngs/result_03-10-2022_18-00-04.png' CREATED
+[18-00-25] (EVENT) TWEET : POST INIT
+[18-00-25] (EVENT) TWEET : POST APPEND
+[18-00-26] (EVENT) TWEET : POST FINALIZE
+[18-00-26] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-27] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : Mr_Yotsuya
+[18-00-27] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[04-10-2022]
+[18-00-04] (EVENT) NASA'S API : GATHERING DATA
+[18-00-21] (DATA) NASA'S API ASTEROID : {"des": "2022 TD", "orbit_id": "1", "jd": "2459858.661749884", "cd": "2022-Oct-06 03:53", "dist": "0.00248954117851252", "dist_min": "0.00248276654288668", "dist_max": "0.00249631560062666", "v_rel": "10.1134062245078", "v_inf": "10.0070198854355", "t_sigma_f": "00:07", "h": "27.768", "diameter": null, "diameter_sigma": null}
+[18-00-21] (DATA) NASA'S API COMET : {}
+[18-00-21] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 TD : 372430
+[18-00-21] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-21] (DATA) TWEET'S TEXT : 🔴 L'#asteroide 2022 TD d'un diamètre estimé entre 7m et 17m passe actuellement à 372,430km de la #terre (soit 0.97 fois la distance terre-lune) à une vitesse de 10.11km/s (36408km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🔴
+[18-00-21] (EVENT) PNG : CREATING PNG
+[18-00-21] (DATA) PNG : PNG './pngs/result_04-10-2022_18-00-04.png' CREATED
+[18-00-21] (EVENT) TWEET : POST INIT
+[18-00-21] (EVENT) TWEET : POST APPEND
+[18-00-22] (EVENT) TWEET : POST FINALIZE
+[18-00-22] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-23] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : Mr_Yotsuya
+[18-00-23] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[05-10-2022]
+[18-00-03] (EVENT) NASA'S API : GATHERING DATA
+[18-00-21] (DATA) NASA'S API ASTEROID : {"des": "2022 TD", "orbit_id": "2", "jd": "2459858.661459498", "cd": "2022-Oct-06 03:53", "dist": "0.00248890757320915", "dist_min": "0.00248501889617752", "dist_max": "0.00249279600352619", "v_rel": "10.1124449796819", "v_inf": "10.0060211908767", "t_sigma_f": "< 00:01", "h": "27.771", "diameter": null, "diameter_sigma": null}
+[18-00-21] (DATA) NASA'S API COMET : {}
+[18-00-21] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 TD : 372335
+[18-00-21] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-21] (DATA) TWEET'S TEXT : 🔴 L'#asteroide 2022 TD d'un diamètre estimé entre 7m et 17m passe actuellement à 372,335km de la #terre (soit 0.97 fois la distance terre-lune) à une vitesse de 10.11km/s (36405km/h). Cet objet spacial s'est rapproché de 95km depuis hier 🔴
+[18-00-21] (EVENT) PNG : CREATING PNG
+[18-00-21] (DATA) PNG : PNG './pngs/result_05-10-2022_18-00-03.png' CREATED
+[18-00-21] (EVENT) TWEET : POST INIT
+[18-00-22] (EVENT) TWEET : POST APPEND
+[18-00-22] (EVENT) TWEET : POST FINALIZE
+[18-00-23] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-23] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : feutrearayures
+[18-00-24] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[06-10-2022]
+[18-00-03] (EVENT) NASA'S API : GATHERING DATA
+[18-00-20] (DATA) NASA'S API ASTEROID : {"des": "2022 TD", "orbit_id": "3", "jd": "2459858.661493465", "cd": "2022-Oct-06 03:53", "dist": "0.00248833297479533", "dist_min": "0.00248602564591832", "dist_max": "0.0024906402142015", "v_rel": "10.1098435018348", "v_inf": "10.003367324266", "t_sigma_f": "< 00:01", "h": "27.735", "diameter": null, "diameter_sigma": null}
+[18-00-20] (DATA) NASA'S API COMET : {}
+[18-00-20] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 TD : 372249
+[18-00-20] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-20] (DATA) TWEET'S TEXT : 🔴 L'#asteroide 2022 TD d'un diamètre estimé entre 8m et 17m passe actuellement à 372,249km de la #terre (soit 0.97 fois la distance terre-lune) à une vitesse de 10.11km/s (36395km/h). Cet objet spacial s'est rapproché de 86km depuis hier 🔴
+[18-00-20] (EVENT) PNG : CREATING PNG
+[18-00-20] (DATA) PNG : PNG './pngs/result_06-10-2022_18-00-03.png' CREATED
+[18-00-20] (EVENT) TWEET : POST INIT
+[18-00-20] (EVENT) TWEET : POST APPEND
+[18-00-20] (EVENT) TWEET : POST FINALIZE
+[18-00-21] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-21] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : feutrearayures
+[18-00-22] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[07-10-2022]
+[18-00-03] (EVENT) NASA'S API : GATHERING DATA
+[18-01-08] (DATA) NASA'S API ASTEROID : {"des": "2020 TO2", "orbit_id": "7", "jd": "2459868.460286041", "cd": "2022-Oct-15 23:03", "dist": "0.00358199122491309", "dist_min": "0.00323378237782488", "dist_max": "0.0498506713271651", "v_rel": "12.5817267658203", "v_inf": "12.5224654098999", "t_sigma_f": "4_12:04", "h": "26.43", "diameter": null, "diameter_sigma": null}
+[18-01-08] (DATA) NASA'S API COMET : {}
+[18-01-08] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2020 TO2 : 535858
+[18-01-08] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-01-08] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2020 TO2 d'un diamètre estimé entre 14m et 31m passe actuellement à 535,858km de la #terre (soit 1.39 fois la distance terre-lune) à une vitesse de 12.58km/s (45294km/h) 🟠
+[18-01-08] (EVENT) PNG : CREATING PNG
+[18-01-08] (DATA) PNG : PNG './pngs/result_07-10-2022_18-00-03.png' CREATED
+[18-01-08] (EVENT) TWEET : POST INIT
+[18-01-08] (EVENT) TWEET : POST APPEND
+[18-01-09] (EVENT) TWEET : POST FINALIZE
+[18-01-09] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-01-10] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : feutrearayures
+[18-01-10] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[08-10-2022]
+[18-00-02] (EVENT) NASA'S API : GATHERING DATA
+[18-01-02] (DATA) NASA'S API ASTEROID : {"des": "2020 TO2", "orbit_id": "7", "jd": "2459868.460286041", "cd": "2022-Oct-15 23:03", "dist": "0.00358199122491309", "dist_min": "0.00323378237782488", "dist_max": "0.0498506713271651", "v_rel": "12.5817267658203", "v_inf": "12.5224654098999", "t_sigma_f": "4_12:04", "h": "26.43", "diameter": null, "diameter_sigma": null}
+[18-01-02] (DATA) NASA'S API COMET : {}
+[18-01-02] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2020 TO2 : 535858
+[18-01-02] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-01-02] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2020 TO2 d'un diamètre estimé entre 14m et 31m passe actuellement à 535,858km de la #terre (soit 1.39 fois la distance terre-lune) à une vitesse de 12.58km/s (45294km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-01-02] (EVENT) PNG : CREATING PNG
+[18-01-02] (DATA) PNG : PNG './pngs/result_08-10-2022_18-00-02.png' CREATED
+[18-01-02] (EVENT) TWEET : POST INIT
+[18-01-02] (EVENT) TWEET : POST APPEND
+[18-01-02] (EVENT) TWEET : POST FINALIZE
+[18-01-03] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-01-04] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : DidierMathure
+[18-01-04] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[09-10-2022]
+[18-00-02] (EVENT) NASA'S API : GATHERING DATA
+[18-00-19] (DATA) NASA'S API ASTEROID : {"des": "2020 TO2", "orbit_id": "7", "jd": "2459868.460286041", "cd": "2022-Oct-15 23:03", "dist": "0.00358199122491309", "dist_min": "0.00323378237782488", "dist_max": "0.0498506713271651", "v_rel": "12.5817267658203", "v_inf": "12.5224654098999", "t_sigma_f": "4_12:04", "h": "26.43", "diameter": null, "diameter_sigma": null}
+[18-00-19] (DATA) NASA'S API COMET : {}
+[18-00-19] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2020 TO2 : 535858
+[18-00-19] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-19] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2020 TO2 d'un diamètre estimé entre 14m et 31m passe actuellement à 535,858km de la #terre (soit 1.39 fois la distance terre-lune) à une vitesse de 12.58km/s (45294km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-00-19] (EVENT) PNG : CREATING PNG
+[18-00-19] (DATA) PNG : PNG './pngs/result_09-10-2022_18-00-02.png' CREATED
+[18-00-19] (EVENT) TWEET : POST INIT
+[18-00-19] (EVENT) TWEET : POST APPEND
+[18-00-19] (EVENT) TWEET : POST FINALIZE
+[18-00-20] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-20] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : DidierMathure
+[18-00-21] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[10-10-2022]
+[18-00-03] (EVENT) NASA'S API : GATHERING DATA
+[18-00-19] (DATA) NASA'S API ASTEROID : {"des": "2020 TO2", "orbit_id": "7", "jd": "2459868.460286041", "cd": "2022-Oct-15 23:03", "dist": "0.00358199122491309", "dist_min": "0.00323378237782488", "dist_max": "0.0498506713271651", "v_rel": "12.5817267658203", "v_inf": "12.5224654098999", "t_sigma_f": "4_12:04", "h": "26.43", "diameter": null, "diameter_sigma": null}
+[18-00-19] (DATA) NASA'S API COMET : {}
+[18-00-19] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2020 TO2 : 535858
+[18-00-19] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-19] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2020 TO2 d'un diamètre estimé entre 14m et 31m passe actuellement à 535,858km de la #terre (soit 1.39 fois la distance terre-lune) à une vitesse de 12.58km/s (45294km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-00-19] (EVENT) PNG : CREATING PNG
+[18-00-19] (DATA) PNG : PNG './pngs/result_10-10-2022_18-00-03.png' CREATED
+[18-00-19] (EVENT) TWEET : POST INIT
+[18-00-19] (EVENT) TWEET : POST APPEND
+[18-00-20] (EVENT) TWEET : POST FINALIZE
+[18-00-20] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-21] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : Alfred17796218
+[18-00-21] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[11-10-2022]
+[18-00-03] (EVENT) NASA'S API : GATHERING DATA
+[18-00-19] (DATA) NASA'S API ASTEROID : {"des": "2020 TO2", "orbit_id": "7", "jd": "2459868.460286041", "cd": "2022-Oct-15 23:03", "dist": "0.00358199122491309", "dist_min": "0.00323378237782488", "dist_max": "0.0498506713271651", "v_rel": "12.5817267658203", "v_inf": "12.5224654098999", "t_sigma_f": "4_12:04", "h": "26.43", "diameter": null, "diameter_sigma": null}
+[18-00-19] (DATA) NASA'S API COMET : {}
+[18-00-19] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2020 TO2 : 535858
+[18-00-19] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-19] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2020 TO2 d'un diamètre estimé entre 14m et 31m passe actuellement à 535,858km de la #terre (soit 1.39 fois la distance terre-lune) à une vitesse de 12.58km/s (45294km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-00-19] (EVENT) PNG : CREATING PNG
+[18-00-19] (DATA) PNG : PNG './pngs/result_11-10-2022_18-00-03.png' CREATED
+[18-00-19] (EVENT) TWEET : POST INIT
+[18-00-20] (EVENT) TWEET : POST APPEND
+[18-00-20] (EVENT) TWEET : POST FINALIZE
+[18-00-21] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-21] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : cixanqlfdetp
+[18-00-22] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[12-10-2022]
+[18-00-04] (EVENT) NASA'S API : GATHERING DATA
+[18-00-20] (DATA) NASA'S API ASTEROID : {"des": "2020 TO2", "orbit_id": "7", "jd": "2459868.460286041", "cd": "2022-Oct-15 23:03", "dist": "0.00358199122491309", "dist_min": "0.00323378237782488", "dist_max": "0.0498506713271651", "v_rel": "12.5817267658203", "v_inf": "12.5224654098999", "t_sigma_f": "4_12:04", "h": "26.43", "diameter": null, "diameter_sigma": null}
+[18-00-20] (DATA) NASA'S API COMET : {}
+[18-00-20] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2020 TO2 : 535858
+[18-00-20] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-20] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2020 TO2 d'un diamètre estimé entre 14m et 31m passe actuellement à 535,858km de la #terre (soit 1.39 fois la distance terre-lune) à une vitesse de 12.58km/s (45294km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-00-20] (EVENT) PNG : CREATING PNG
+[18-00-20] (DATA) PNG : PNG './pngs/result_12-10-2022_18-00-04.png' CREATED
+[18-00-20] (EVENT) TWEET : POST INIT
+[18-00-20] (EVENT) TWEET : POST APPEND
+[18-00-21] (EVENT) TWEET : POST FINALIZE
+[18-00-22] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-22] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : cixanqlfdetp
+[18-00-22] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[13-10-2022]
+[18-00-03] (EVENT) NASA'S API : GATHERING DATA
+[18-00-20] (DATA) NASA'S API ASTEROID : {"des": "2020 TO2", "orbit_id": "7", "jd": "2459868.460286041", "cd": "2022-Oct-15 23:03", "dist": "0.00358199122491309", "dist_min": "0.00323378237782488", "dist_max": "0.0498506713271651", "v_rel": "12.5817267658203", "v_inf": "12.5224654098999", "t_sigma_f": "4_12:04", "h": "26.43", "diameter": null, "diameter_sigma": null}
+[18-00-20] (DATA) NASA'S API COMET : {}
+[18-00-20] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2020 TO2 : 535858
+[18-00-20] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-20] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2020 TO2 d'un diamètre estimé entre 14m et 31m passe actuellement à 535,858km de la #terre (soit 1.39 fois la distance terre-lune) à une vitesse de 12.58km/s (45294km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-00-20] (EVENT) PNG : CREATING PNG
+[18-00-20] (DATA) PNG : PNG './pngs/result_13-10-2022_18-00-03.png' CREATED
+[18-00-20] (EVENT) TWEET : POST INIT
+[18-00-20] (EVENT) TWEET : POST APPEND
+[18-00-21] (EVENT) TWEET : POST FINALIZE
+[18-00-21] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-22] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : cixanqlfdetp
+[18-00-22] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[14-10-2022]
+[18-00-04] (EVENT) NASA'S API : GATHERING DATA
+[18-01-10] (DATA) NASA'S API ASTEROID : {"des": "2020 TO2", "orbit_id": "7", "jd": "2459868.460286041", "cd": "2022-Oct-15 23:03", "dist": "0.00358199122491309", "dist_min": "0.00323378237782488", "dist_max": "0.0498506713271651", "v_rel": "12.5817267658203", "v_inf": "12.5224654098999", "t_sigma_f": "4_12:04", "h": "26.43", "diameter": null, "diameter_sigma": null}
+[18-01-10] (DATA) NASA'S API COMET : {}
+[18-01-10] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2020 TO2 : 535858
+[18-01-10] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-01-10] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2020 TO2 d'un diamètre estimé entre 14m et 31m passe actuellement à 535,858km de la #terre (soit 1.39 fois la distance terre-lune) à une vitesse de 12.58km/s (45294km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-01-10] (EVENT) PNG : CREATING PNG
+[18-01-10] (DATA) PNG : PNG './pngs/result_14-10-2022_18-00-04.png' CREATED
+[18-01-10] (EVENT) TWEET : POST INIT
+[18-01-10] (EVENT) TWEET : POST APPEND
+[18-01-10] (EVENT) TWEET : POST FINALIZE
+[18-01-11] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-01-11] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : cixanqlfdetp
+[18-01-12] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[15-10-2022]
+[18-00-02] (EVENT) NASA'S API : GATHERING DATA
+[18-00-57] (DATA) NASA'S API ASTEROID : {"des": "2022 TM2", "orbit_id": "2", "jd": "2459867.887823772", "cd": "2022-Oct-15 09:18", "dist": "0.00140503735901529", "dist_min": "0.00140368775911088", "dist_max": "0.00140638691785641", "v_rel": "15.4795302973945", "v_inf": "15.3565330047854", "t_sigma_f": "< 00:01", "h": "25.458", "diameter": null, "diameter_sigma": null}
+[18-00-57] (DATA) NASA'S API COMET : {}
+[18-00-57] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 TM2 : 210191
+[18-00-57] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-57] (DATA) TWEET'S TEXT : 🔴 L'#asteroide 2022 TM2 d'un diamètre estimé entre 22m et 48m passe actuellement à 210,191km de la #terre (soit 0.55 fois la distance terre-lune) à une vitesse de 15.48km/s (55726km/h) 🔴
+[18-00-57] (EVENT) PNG : CREATING PNG
+[18-00-57] (DATA) PNG : PNG './pngs/result_15-10-2022_18-00-02.png' CREATED
+[18-00-57] (EVENT) TWEET : POST INIT
+[18-00-57] (EVENT) TWEET : POST APPEND
+[18-00-58] (EVENT) TWEET : POST FINALIZE
+[18-00-58] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-59] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : cixanqlfdetp
+[18-00-59] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[16-10-2022]
+[18-00-03] (EVENT) NASA'S API : GATHERING DATA
+[18-00-19] (DATA) NASA'S API ASTEROID : {"des": "2018 WH", "orbit_id": "5", "jd": "2459900.310530039", "cd": "2022-Nov-16 19:27", "dist": "0.00641088350399331", "dist_min": "0.000963899260581122", "dist_max": "0.0235790670070616", "v_rel": "7.73495351338864", "v_inf": "7.68103310875715", "t_sigma_f": "1_19:35", "h": "29.8", "diameter": null, "diameter_sigma": null}
+[18-00-19] (DATA) NASA'S API COMET : {}
+[18-00-19] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2018 WH : 959055
+[18-00-19] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-19] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2018 WH d'un diamètre estimé entre 3m et 7m passe actuellement à 959,055km de la #terre (soit 2.49 fois la distance terre-lune) à une vitesse de 7.73km/s (27846km/h) 🟠
+[18-00-19] (EVENT) PNG : CREATING PNG
+[18-00-19] (DATA) PNG : PNG './pngs/result_16-10-2022_18-00-03.png' CREATED
+[18-00-19] (EVENT) TWEET : POST INIT
+[18-00-19] (EVENT) TWEET : POST APPEND
+[18-00-20] (EVENT) TWEET : POST FINALIZE
+[18-00-21] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-21] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : cixanqlfdetp
+[18-00-21] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[17-10-2022]
+[18-00-04] (EVENT) NASA'S API : GATHERING DATA
+[18-00-54] (DATA) NASA'S API ASTEROID : {"des": "2015 RN35", "orbit_id": "36", "jd": "2459928.841324865", "cd": "2022-Dec-15 08:12", "dist": "0.00458694020077324", "dist_min": "0.00458630363734786", "dist_max": "0.00458757686246217", "v_rel": "5.9098795826269", "v_inf": "5.81075804388362", "t_sigma_f": "< 00:01", "h": "23.12", "diameter": null, "diameter_sigma": null}
+[18-00-54] (DATA) NASA'S API COMET : {}
+[18-00-54] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2015 RN35 : 686196
+[18-00-54] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-54] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2015 RN35 d'un diamètre estimé entre 63m et 141m passe actuellement à 686,196km de la #terre (soit 1.79 fois la distance terre-lune) à une vitesse de 5.91km/s (21276km/h) 🟠
+[18-00-54] (EVENT) PNG : CREATING PNG
+[18-00-54] (DATA) PNG : PNG './pngs/result_17-10-2022_18-00-04.png' CREATED
+[18-00-54] (EVENT) TWEET : POST INIT
+[18-00-54] (EVENT) TWEET : POST APPEND
+[18-00-55] (EVENT) TWEET : POST FINALIZE
+[18-00-56] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-56] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : Embaumeurblog
+[18-00-57] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[18-10-2022]
+[18-00-04] (EVENT) NASA'S API : GATHERING DATA
+[18-00-20] (DATA) NASA'S API ASTEROID : {"des": "2015 RN35", "orbit_id": "36", "jd": "2459928.841324865", "cd": "2022-Dec-15 08:12", "dist": "0.00458694020077324", "dist_min": "0.00458630363734786", "dist_max": "0.00458757686246217", "v_rel": "5.9098795826269", "v_inf": "5.81075804388362", "t_sigma_f": "< 00:01", "h": "23.12", "diameter": null, "diameter_sigma": null}
+[18-00-20] (DATA) NASA'S API COMET : {}
+[18-00-20] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2015 RN35 : 686196
+[18-00-20] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-20] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2015 RN35 d'un diamètre estimé entre 63m et 141m passe actuellement à 686,196km de la #terre (soit 1.79 fois la distance terre-lune) à une vitesse de 5.91km/s (21276km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-00-20] (EVENT) PNG : CREATING PNG
+[18-00-20] (DATA) PNG : PNG './pngs/result_18-10-2022_18-00-04.png' CREATED
+[18-00-20] (EVENT) TWEET : POST INIT
+[18-00-20] (EVENT) TWEET : POST APPEND
+[18-00-21] (EVENT) TWEET : POST FINALIZE
+[18-00-21] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-22] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : Blue_Neptuno
+[18-00-23] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[19-10-2022]
+[18-00-04] (EVENT) NASA'S API : GATHERING DATA
+[18-00-21] (DATA) NASA'S API ASTEROID : {"des": "2022 UC1", "orbit_id": "2", "jd": "2459874.448580981", "cd": "2022-Oct-21 22:46", "dist": "0.00364321771565561", "dist_min": "0.00363618556462731", "dist_max": "0.00365024911779604", "v_rel": "6.76753582999717", "v_inf": "6.65859103630785", "t_sigma_f": "00:02", "h": "26.26", "diameter": null, "diameter_sigma": null}
+[18-00-21] (DATA) NASA'S API COMET : {}
+[18-00-21] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 UC1 : 545018
+[18-00-21] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-21] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2022 UC1 d'un diamètre estimé entre 15m et 33m passe actuellement à 545,018km de la #terre (soit 1.42 fois la distance terre-lune) à une vitesse de 6.77km/s (24363km/h) 🟠
+[18-00-21] (EVENT) PNG : CREATING PNG
+[18-00-21] (DATA) PNG : PNG './pngs/result_19-10-2022_18-00-04.png' CREATED
+[18-00-21] (EVENT) TWEET : POST INIT
+[18-00-21] (EVENT) TWEET : POST APPEND
+[18-00-21] (EVENT) TWEET : POST FINALIZE
+[18-00-22] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-23] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : Blue_Neptuno
+[18-00-23] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[20-10-2022]
+[18-00-04] (EVENT) NASA'S API : GATHERING DATA
+[18-00-22] (DATA) NASA'S API ASTEROID : {"des": "2022 UC1", "orbit_id": "3", "jd": "2459874.449313237", "cd": "2022-Oct-21 22:47", "dist": "0.00364446986908785", "dist_min": "0.00363806102987322", "dist_max": "0.00365087804220745", "v_rel": "6.76688882094512", "v_inf": "6.65797118083643", "t_sigma_f": "< 00:01", "h": "26.288", "diameter": null, "diameter_sigma": null}
+[18-00-22] (DATA) NASA'S API COMET : {}
+[18-00-22] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 UC1 : 545205
+[18-00-22] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-22] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2022 UC1 d'un diamètre estimé entre 15m et 33m passe actuellement à 545,205km de la #terre (soit 1.42 fois la distance terre-lune) à une vitesse de 6.77km/s (24361km/h). Cet objet spacial s'est éloigné de 187km depuis hier 🟠
+[18-00-22] (EVENT) PNG : CREATING PNG
+[18-00-22] (DATA) PNG : PNG './pngs/result_20-10-2022_18-00-04.png' CREATED
+[18-00-22] (EVENT) TWEET : POST INIT
+[18-00-22] (EVENT) TWEET : POST APPEND
+[18-00-22] (EVENT) TWEET : POST FINALIZE
+[18-00-23] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-24] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : Blue_Neptuno
+[18-00-24] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[21-10-2022]
+[18-00-03] (EVENT) NASA'S API : GATHERING DATA
+[18-01-17] (DATA) NASA'S API ASTEROID : {"des": "2022 UC1", "orbit_id": "4", "jd": "2459874.448942251", "cd": "2022-Oct-21 22:46", "dist": "0.00364428082869386", "dist_min": "0.00363908259663363", "dist_max": "0.00364947860005428", "v_rel": "6.76804861359256", "v_inf": "6.65914424807048", "t_sigma_f": "< 00:01", "h": "26.248", "diameter": null, "diameter_sigma": null}
+[18-01-17] (DATA) NASA'S API COMET : {}
+[18-01-17] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 UC1 : 545177
+[18-01-17] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-01-17] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2022 UC1 d'un diamètre estimé entre 15m et 33m passe actuellement à 545,177km de la #terre (soit 1.42 fois la distance terre-lune) à une vitesse de 6.77km/s (24365km/h). Cet objet spacial s'est rapproché de 28km depuis hier 🟠
+[18-01-17] (EVENT) PNG : CREATING PNG
+[18-01-17] (DATA) PNG : PNG './pngs/result_21-10-2022_18-00-03.png' CREATED
+[18-01-17] (EVENT) TWEET : POST INIT
+[18-01-17] (EVENT) TWEET : POST APPEND
+[18-01-18] (EVENT) TWEET : POST FINALIZE
+[18-01-19] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-01-19] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : Blue_Neptuno
+[18-01-19] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[22-10-2022]
+[18-00-03] (EVENT) NASA'S API : GATHERING DATA
+[18-00-21] (DATA) NASA'S API ASTEROID : {"des": "2022 UY5", "orbit_id": "1", "jd": "2459875.403658132", "cd": "2022-Oct-22 21:41", "dist": "0.00152970099239121", "dist_min": "0.0015279817291429", "dist_max": "0.00153142005426153", "v_rel": "7.9110945681743", "v_inf": "7.68776670617447", "t_sigma_f": "< 00:01", "h": "27.09", "diameter": null, "diameter_sigma": null}
+[18-00-21] (DATA) NASA'S API COMET : {}
+[18-00-21] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 UY5 : 228840
+[18-00-21] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-21] (DATA) TWEET'S TEXT : 🔴 L'#asteroide 2022 UY5 d'un diamètre estimé entre 10m et 23m passe actuellement à 228,840km de la #terre (soit 0.6 fois la distance terre-lune) à une vitesse de 7.91km/s (28480km/h) 🔴
+[18-00-21] (EVENT) PNG : CREATING PNG
+[18-00-22] (DATA) PNG : PNG './pngs/result_22-10-2022_18-00-03.png' CREATED
+[18-00-22] (EVENT) TWEET : POST INIT
+[18-00-22] (EVENT) TWEET : POST APPEND
+[18-00-22] (EVENT) TWEET : POST FINALIZE
+[18-00-23] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-23] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : Blue_Neptuno
+[18-00-23] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[23-10-2022]
+[18-00-03] (EVENT) NASA'S API : GATHERING DATA
+[18-00-18] (DATA) NASA'S API ASTEROID : {"des": "2022 UC7", "orbit_id": "1", "jd": "2459876.614589079", "cd": "2022-Oct-24 02:45", "dist": "0.00232363996630026", "dist_min": "0.00232073137064599", "dist_max": "0.00232654840211272", "v_rel": "10.0212346982701", "v_inf": "9.90614850036171", "t_sigma_f": "< 00:01", "h": "27.672", "diameter": null, "diameter_sigma": null}
+[18-00-18] (DATA) NASA'S API COMET : {}
+[18-00-18] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 UC7 : 347612
+[18-00-18] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-18] (DATA) TWEET'S TEXT : 🔴 L'#asteroide 2022 UC7 d'un diamètre estimé entre 8m et 17m passe actuellement à 347,612km de la #terre (soit 0.9 fois la distance terre-lune) à une vitesse de 10.02km/s (36076km/h) 🔴
+[18-00-18] (EVENT) PNG : CREATING PNG
+[18-00-19] (DATA) PNG : PNG './pngs/result_23-10-2022_18-00-03.png' CREATED
+[18-00-19] (EVENT) TWEET : POST INIT
+[18-00-19] (EVENT) TWEET : POST APPEND
+[18-00-19] (EVENT) TWEET : POST FINALIZE
+[18-00-20] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-20] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : Blue_Neptuno
+[18-00-20] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[24-10-2022]
+[18-00-05] (EVENT) NASA'S API : GATHERING DATA
+[18-00-19] (DATA) NASA'S API ASTEROID : {"des": "2022 UV7", "orbit_id": "1", "jd": "2459876.895559425", "cd": "2022-Oct-24 09:30", "dist": "0.00163278875598827", "dist_min": "0.00163076731098833", "dist_max": "0.00163481009849254", "v_rel": "12.5631451536902", "v_inf": "12.4325741590731", "t_sigma_f": "< 00:01", "h": "29.455", "diameter": null, "diameter_sigma": null}
+[18-00-19] (DATA) NASA'S API COMET : {}
+[18-00-19] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 UV7 : 244262
+[18-00-19] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-19] (DATA) TWEET'S TEXT : 🔴 L'#asteroide 2022 UV7 d'un diamètre estimé entre 3m et 8m passe actuellement à 244,262km de la #terre (soit 0.64 fois la distance terre-lune) à une vitesse de 12.56km/s (45227km/h) 🔴
+[18-00-19] (EVENT) PNG : CREATING PNG
+[18-00-19] (DATA) PNG : PNG './pngs/result_24-10-2022_18-00-05.png' CREATED
+[18-00-19] (EVENT) TWEET : POST INIT
+[18-00-19] (EVENT) TWEET : POST APPEND
+[18-00-19] (EVENT) TWEET : POST FINALIZE
+[18-00-20] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-20] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : Blue_Neptuno
+[18-00-21] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[25-10-2022]
+[18-00-04] (EVENT) NASA'S API : GATHERING DATA
+[18-00-24] (DATA) NASA'S API ASTEROID : {"des": "2022 UV2", "orbit_id": "3", "jd": "2459878.934852417", "cd": "2022-Oct-26 10:26", "dist": "0.0038166513498483", "dist_min": "0.00380853327593819", "dist_max": "0.00382476806647546", "v_rel": "5.82063343388702", "v_inf": "5.6994328010847", "t_sigma_f": "< 00:01", "h": "28.145", "diameter": null, "diameter_sigma": null}
+[18-00-24] (DATA) NASA'S API COMET : {}
+[18-00-24] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 UV2 : 570963
+[18-00-24] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-24] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2022 UV2 d'un diamètre estimé entre 6m et 14m passe actuellement à 570,963km de la #terre (soit 1.49 fois la distance terre-lune) à une vitesse de 5.82km/s (20954km/h) 🟠
+[18-00-24] (EVENT) PNG : CREATING PNG
+[18-00-25] (DATA) PNG : PNG './pngs/result_25-10-2022_18-00-04.png' CREATED
+[18-00-25] (EVENT) TWEET : POST INIT
+[18-00-25] (EVENT) TWEET : POST APPEND
+[18-00-25] (EVENT) TWEET : POST FINALIZE
+[18-00-26] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-26] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : Blue_Neptuno
+[18-00-26] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[26-10-2022]
+[18-00-02] (EVENT) NASA'S API : GATHERING DATA
+[18-00-19] (DATA) NASA'S API ASTEROID : {"des": "2022 UV2", "orbit_id": "4", "jd": "2459878.934854708", "cd": "2022-Oct-26 10:26", "dist": "0.00381751213212279", "dist_min": "0.00381229821320829", "dist_max": "0.00382272547642577", "v_rel": "5.82181918867886", "v_inf": "5.70067137937566", "t_sigma_f": "< 00:01", "h": "28.126", "diameter": null, "diameter_sigma": null}
+[18-00-19] (DATA) NASA'S API COMET : {}
+[18-00-19] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 UV2 : 571092
+[18-00-19] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-19] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2022 UV2 d'un diamètre estimé entre 6m et 14m passe actuellement à 571,092km de la #terre (soit 1.49 fois la distance terre-lune) à une vitesse de 5.82km/s (20959km/h). Cet objet spacial s'est éloigné de 129km depuis hier 🟠
+[18-00-19] (EVENT) PNG : CREATING PNG
+[18-00-19] (DATA) PNG : PNG './pngs/result_26-10-2022_18-00-02.png' CREATED
+[18-00-19] (EVENT) TWEET : POST INIT
+[18-00-20] (EVENT) TWEET : POST APPEND
+[18-00-20] (EVENT) TWEET : POST FINALIZE
+[18-00-21] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-21] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : Mouv_Actus
+[18-00-22] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[27-10-2022]
+[18-00-02] (EVENT) NASA'S API : GATHERING DATA
+[18-00-16] (DATA) NASA'S API ASTEROID : {"des": "2022 UU8", "orbit_id": "2", "jd": "2459882.703114531", "cd": "2022-Oct-30 04:52", "dist": "0.00389238940054601", "dist_min": "0.003885532347223", "dist_max": "0.00389924494895802", "v_rel": "4.51931871362555", "v_inf": "4.36522282593136", "t_sigma_f": "00:01", "h": "27.833", "diameter": null, "diameter_sigma": null}
+[18-00-16] (DATA) NASA'S API COMET : {}
+[18-00-16] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 UU8 : 582293
+[18-00-16] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-16] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2022 UU8 d'un diamètre estimé entre 7m et 16m passe actuellement à 582,293km de la #terre (soit 1.51 fois la distance terre-lune) à une vitesse de 4.52km/s (16270km/h) 🟠
+[18-00-16] (EVENT) PNG : CREATING PNG
+[18-00-16] (DATA) PNG : PNG './pngs/result_27-10-2022_18-00-02.png' CREATED
+[18-00-16] (EVENT) TWEET : POST INIT
+[18-00-17] (EVENT) TWEET : POST APPEND
+[18-00-17] (EVENT) TWEET : POST FINALIZE
+[18-00-18] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-18] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : Mouv_Actus
+[18-00-18] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[28-10-2022]
+[18-00-04] (EVENT) NASA'S API : GATHERING DATA
+[18-00-39] (DATA) NASA'S API ASTEROID : {"des": "2022 UO12", "orbit_id": "2", "jd": "2459882.133942248", "cd": "2022-Oct-29 15:13", "dist": "0.00325270375260398", "dist_min": "0.00324282249259342", "dist_max": "0.00326258467252052", "v_rel": "16.3930688104133", "v_inf": "16.3430226208308", "t_sigma_f": "< 00:01", "h": "28.383", "diameter": null, "diameter_sigma": null}
+[18-00-39] (DATA) NASA'S API COMET : {}
+[18-00-39] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 UO12 : 486598
+[18-00-39] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-39] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2022 UO12 d'un diamètre estimé entre 6m et 13m passe actuellement à 486,598km de la #terre (soit 1.27 fois la distance terre-lune) à une vitesse de 16.39km/s (59015km/h) 🟠
+[18-00-39] (EVENT) PNG : CREATING PNG
+[18-00-39] (DATA) PNG : PNG './pngs/result_28-10-2022_18-00-04.png' CREATED
+[18-00-39] (EVENT) TWEET : POST INIT
+[18-00-40] (EVENT) TWEET : POST APPEND
+[18-00-40] (EVENT) TWEET : POST FINALIZE
+[18-00-41] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-41] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : MbayeChaka
+[18-00-42] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[30-10-2022]
+[18-00-02] (EVENT) NASA'S API : GATHERING DATA
+[18-00-25] (DATA) NASA'S API ASTEROID : {"des": "2022 UW15", "orbit_id": "1", "jd": "2459882.988851103", "cd": "2022-Oct-30 11:44", "dist": "0.00080589029304545", "dist_min": "0.000804730867693263", "dist_max": "0.000807049368472063", "v_rel": "7.90239415501304", "v_inf": "7.4723036657111", "t_sigma_f": "< 00:01", "h": "30.135", "diameter": null, "diameter_sigma": null}
+[18-00-25] (DATA) NASA'S API COMET : {}
+[18-00-25] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 UW15 : 120559
+-----------------------------------------------------------------------------------------
+[31-10-2022]
+[18-00-04] (EVENT) NASA'S API : GATHERING DATA
+[18-00-26] (DATA) NASA'S API ASTEROID : {"des": "2022 UA21", "orbit_id": "1", "jd": "2459883.509401871", "cd": "2022-Oct-31 00:14", "dist": "0.00302836056988799", "dist_min": "0.00302537117714607", "dist_max": "0.00303134955063727", "v_rel": "4.40910794876434", "v_inf": "4.2048244389069", "t_sigma_f": "< 00:01", "h": "29.141", "diameter": null, "diameter_sigma": null}
+[18-00-26] (DATA) NASA'S API COMET : {}
+[18-00-26] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 UA21 : 453036
+[18-00-26] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-26] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2022 UA21 d'un diamètre estimé entre 4m et 9m passe actuellement à 453,036km de la #terre (soit 1.18 fois la distance terre-lune) à une vitesse de 4.41km/s (15873km/h) 🟠
+[18-00-26] (EVENT) PNG : CREATING PNG
+[18-00-26] (DATA) PNG : PNG './pngs/result_31-10-2022_18-00-04.png' CREATED
+[18-00-26] (EVENT) TWEET : POST INIT
+[18-00-26] (EVENT) TWEET : POST APPEND
+[18-00-26] (EVENT) TWEET : POST FINALIZE
+[18-00-27] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-27] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : Lele95228133
+[18-00-28] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[01-11-2022]
+[18-00-02] (EVENT) NASA'S API : GATHERING DATA
+[18-00-26] (DATA) NASA'S API ASTEROID : {"des": "2022 UP17", "orbit_id": "2", "jd": "2459886.599459471", "cd": "2022-Nov-03 02:23", "dist": "0.00409973455744608", "dist_min": "0.004088482470531", "dist_max": "0.00411098646225559", "v_rel": "19.261567835323", "v_inf": "19.2277966835111", "t_sigma_f": "00:02", "h": "27.537", "diameter": null, "diameter_sigma": null}
+[18-00-26] (DATA) NASA'S API COMET : {}
+[18-00-26] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 UP17 : 613312
+[18-00-26] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-26] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2022 UP17 d'un diamètre estimé entre 8m et 18m passe actuellement à 613,312km de la #terre (soit 1.6 fois la distance terre-lune) à une vitesse de 19.26km/s (69342km/h) 🟠
+[18-00-26] (EVENT) PNG : CREATING PNG
+[18-00-26] (DATA) PNG : PNG './pngs/result_01-11-2022_18-00-02.png' CREATED
+[18-00-26] (EVENT) TWEET : POST INIT
+[18-00-26] (EVENT) TWEET : POST APPEND
+[18-00-26] (EVENT) TWEET : POST FINALIZE
+[18-00-27] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-28] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : Theyoungspecul1
+[18-00-28] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[02-11-2022]
+[18-00-03] (EVENT) NASA'S API : GATHERING DATA
+[18-00-27] (DATA) NASA'S API ASTEROID : {"des": "2022 UP17", "orbit_id": "3", "jd": "2459886.599289730", "cd": "2022-Nov-03 02:23", "dist": "0.00409737194459815", "dist_min": "0.00408881029785534", "dist_max": "0.00410593346768673", "v_rel": "19.2516178186461", "v_inf": "19.2178096816259", "t_sigma_f": "< 00:01", "h": "27.511", "diameter": null, "diameter_sigma": null}
+[18-00-27] (DATA) NASA'S API COMET : {}
+[18-00-27] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 UP17 : 612958
+[18-00-27] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-27] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2022 UP17 d'un diamètre estimé entre 8m et 19m passe actuellement à 612,958km de la #terre (soit 1.59 fois la distance terre-lune) à une vitesse de 19.25km/s (69306km/h). Cet objet spacial s'est rapproché de 354km depuis hier 🟠
+[18-00-27] (EVENT) PNG : CREATING PNG
+[18-00-28] (DATA) PNG : PNG './pngs/result_02-11-2022_18-00-03.png' CREATED
+[18-00-28] (EVENT) TWEET : POST INIT
+[18-00-28] (EVENT) TWEET : POST APPEND
+[18-00-28] (EVENT) TWEET : POST FINALIZE
+[18-00-29] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-30] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : BersetJibi
+[18-00-30] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[03-11-2022]
+[18-00-04] (EVENT) NASA'S API : GATHERING DATA
+[18-00-34] (DATA) NASA'S API ASTEROID : {"des": "2022 UP17", "orbit_id": "4", "jd": "2459886.599322460", "cd": "2022-Nov-03 02:23", "dist": "0.00409849503641297", "dist_min": "0.00409041753784836", "dist_max": "0.00410657242280833", "v_rel": "19.2564171260792", "v_inf": "19.2226267000487", "t_sigma_f": "< 00:01", "h": "27.308", "diameter": null, "diameter_sigma": null}
+[18-00-34] (DATA) NASA'S API COMET : {}
+[18-00-34] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 UP17 : 613126
+[18-00-34] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-34] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2022 UP17 d'un diamètre estimé entre 9m et 21m passe actuellement à 613,126km de la #terre (soit 1.6 fois la distance terre-lune) à une vitesse de 19.26km/s (69323km/h). Cet objet spacial s'est éloigné de 168km depuis hier 🟠
+[18-00-34] (EVENT) PNG : CREATING PNG
+[18-00-34] (DATA) PNG : PNG './pngs/result_03-11-2022_18-00-04.png' CREATED
+[18-00-34] (EVENT) TWEET : POST INIT
+[18-00-34] (EVENT) TWEET : POST APPEND
+[18-00-35] (EVENT) TWEET : POST FINALIZE
+[18-00-36] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-36] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : horus_amon_re
+[18-00-36] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[04-11-2022]
+[18-00-02] (EVENT) NASA'S API : GATHERING DATA
+[18-00-52] (DATA) NASA'S API ASTEROID : {"des": "2022 UC34", "orbit_id": "1", "jd": "2459890.063639781", "cd": "2022-Nov-06 13:32", "dist": "0.00438309631187095", "dist_min": "0.00436914847184624", "dist_max": "0.00439704319624202", "v_rel": "10.9334619215808", "v_inf": "10.8777199739201", "t_sigma_f": "00:03", "h": "28.426", "diameter": null, "diameter_sigma": null}
+[18-00-52] (DATA) NASA'S API COMET : {}
+[18-00-52] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 UC34 : 655702
+[18-00-52] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-52] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2022 UC34 d'un diamètre estimé entre 5m et 12m passe actuellement à 655,702km de la #terre (soit 1.71 fois la distance terre-lune) à une vitesse de 10.93km/s (39360km/h) 🟠
+[18-00-52] (EVENT) PNG : CREATING PNG
+[18-00-52] (DATA) PNG : PNG './pngs/result_04-11-2022_18-00-02.png' CREATED
+[18-00-52] (EVENT) TWEET : POST INIT
+[18-00-52] (EVENT) TWEET : POST APPEND
+[18-00-53] (EVENT) TWEET : POST FINALIZE
+[18-00-54] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-54] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : manutoulouse10
+[18-00-54] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[05-11-2022]
+[18-00-01] (EVENT) NASA'S API : GATHERING DATA
+[18-01-07] (DATA) NASA'S API ASTEROID : {"des": "2022 UC34", "orbit_id": "1", "jd": "2459890.063639781", "cd": "2022-Nov-06 13:32", "dist": "0.00438309631187095", "dist_min": "0.00436914847184624", "dist_max": "0.00439704319624202", "v_rel": "10.9334619215808", "v_inf": "10.8777199739201", "t_sigma_f": "00:03", "h": "28.426", "diameter": null, "diameter_sigma": null}
+[18-01-07] (DATA) NASA'S API COMET : {}
+[18-01-07] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 UC34 : 655702
+[18-01-07] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-01-07] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2022 UC34 d'un diamètre estimé entre 5m et 12m passe actuellement à 655,702km de la #terre (soit 1.71 fois la distance terre-lune) à une vitesse de 10.93km/s (39360km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-01-07] (EVENT) PNG : CREATING PNG
+[18-01-07] (DATA) PNG : PNG './pngs/result_05-11-2022_18-00-01.png' CREATED
+[18-01-07] (EVENT) TWEET : POST INIT
+[18-01-08] (EVENT) TWEET : POST APPEND
+[18-01-08] (EVENT) TWEET : POST FINALIZE
+[18-01-09] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-01-09] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : SoumayaBelkhir1
+[18-01-10] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
