@@ -1871,3 +1871,21 @@
 [18-01-09] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
 [DATA LAST FOLLOWER] : SoumayaBelkhir1
 [18-01-10] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[06-11-2022]
+[18-00-02] (EVENT) NASA'S API : GATHERING DATA
+[18-01-13] (DATA) NASA'S API ASTEROID : {"des": "2022 UC34", "orbit_id": "3", "jd": "2459890.063889234", "cd": "2022-Nov-06 13:32", "dist": "0.00438127412711469", "dist_min": "0.00437060518897163", "dist_max": "0.00439194254084008", "v_rel": "10.9279580312083", "v_inf": "10.8721646105254", "t_sigma_f": "< 00:01", "h": "28.428", "diameter": null, "diameter_sigma": null}
+[18-01-13] (DATA) NASA'S API COMET : {}
+[18-01-13] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 UC34 : 655429
+[18-01-13] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-01-13] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2022 UC34 d'un diamètre estimé entre 5m et 12m passe actuellement à 655,429km de la #terre (soit 1.71 fois la distance terre-lune) à une vitesse de 10.93km/s (39341km/h). Cet objet spacial s'est rapproché de 273km depuis hier 🟠
+[18-01-13] (EVENT) PNG : CREATING PNG
+[18-01-14] (DATA) PNG : PNG './pngs/result_06-11-2022_18-00-02.png' CREATED
+[18-01-14] (EVENT) TWEET : POST INIT
+[18-01-14] (EVENT) TWEET : POST APPEND
+[18-01-14] (EVENT) TWEET : POST FINALIZE
+[18-01-15] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-01-15] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : KonoAzaDa
+[18-01-16] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
