@@ -2073,3 +2073,21 @@
 [18-00-23] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
 [DATA LAST FOLLOWER] : Shot_de_savoir
 [18-00-24] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[18-11-2022]
+[18-00-04] (EVENT) NASA'S API : GATHERING DATA
+[18-00-30] (DATA) NASA'S API ASTEROID : {"des": "2022 WA", "orbit_id": "3", "jd": "2459901.780119179", "cd": "2022-Nov-18 06:43", "dist": "0.00334197973571668", "dist_min": "0.0033387601452633", "dist_max": "0.00334519928956653", "v_rel": "16.2154001780653", "v_inf": "16.1661575976481", "t_sigma_f": "< 00:01", "h": "26.766", "diameter": null, "diameter_sigma": null}
+[18-00-30] (DATA) NASA'S API COMET : {}
+[18-00-30] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 WA : 499953
+[18-00-30] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-30] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2022 WA d'un diamètre estimé entre 12m et 26m passe actuellement à 499,953km de la #terre (soit 1.3 fois la distance terre-lune) à une vitesse de 16.22km/s (58375km/h). Cet objet spacial s'est éloigné de 8km depuis hier 🟠
+[18-00-30] (EVENT) PNG : CREATING PNG
+[18-00-30] (DATA) PNG : PNG './pngs/result_18-11-2022_18-00-04.png' CREATED
+[18-00-30] (EVENT) TWEET : POST INIT
+[18-00-31] (EVENT) TWEET : POST APPEND
+[18-00-31] (EVENT) TWEET : POST FINALIZE
+[18-00-32] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-32] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : Shot_de_savoir
+[18-00-32] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
