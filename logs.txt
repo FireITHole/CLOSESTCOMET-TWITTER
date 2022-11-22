@@ -2163,21 +2163,3 @@
 [18-00-24] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
 [DATA LAST FOLLOWER] : tommicgold
 [18-00-25] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
------------------------------------------------------------------------------------------
-[22-11-2022]
-[19-23-29] (EVENT) NASA'S API : GATHERING DATA
-[19-23-34] (DATA) NASA'S API ASTEROID : {"des": "2022 WQ3", "orbit_id": "2", "jd": "2459905.772356918", "cd": "2022-Nov-22 06:32", "dist": "0.00293662654103628", "dist_min": "0.00292863052650649", "dist_max": "0.00294462217328267", "v_rel": "14.5491513822527", "v_inf": "14.4866542986566", "t_sigma_f": "< 00:01", "h": "28.086", "diameter": null, "diameter_sigma": null}
-[19-23-34] (DATA) NASA'S API COMET : {}
-[19-23-34] (EVENT) TYPE CHOICE : a
-[DATA NAME DIST] : 2022 WQ3 : 439313
-[19-23-34] (EVENT) TWEET : CREATING TWEET'S TEXT
-[19-23-34] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2022 WQ3 d'un diamètre estimé entre 6m et 14m passe actuellement à 439,313km de la #terre (soit 1.14 fois la distance terre-lune) à une vitesse de 14.55km/s (52377km/h) 🟠
-[19-23-34] (EVENT) PNG : CREATING PNG
-[19-23-34] (DATA) PNG : PNG './pngs/result_22-11-2022_19-23-29.png' CREATED
-[19-23-34] (EVENT) TWEET : POST INIT
-[19-23-34] (EVENT) TWEET : POST APPEND
-[19-23-34] (EVENT) TWEET : POST FINALIZE
-[19-23-35] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
-[19-23-35] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
-[DATA LAST FOLLOWER] : tommicgold
-[19-23-36] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
