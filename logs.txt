@@ -2451,3 +2451,21 @@
 [18-01-52] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
 [DATA LAST FOLLOWER] : CastorDro
 [18-01-52] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[09-12-2022]
+[18-00-03] (EVENT) NASA'S API : GATHERING DATA
+[18-01-28] (DATA) NASA'S API ASTEROID : {"des": "2015 RN35", "orbit_id": "37", "jd": "2459928.841331108", "cd": "2022-Dec-15 08:12", "dist": "0.00458694827756805", "dist_min": "0.00458627322835521", "dist_max": "0.00458762343848202", "v_rel": "5.90987968263322", "v_inf": "5.81075832161979", "t_sigma_f": "< 00:01", "h": "23.11", "diameter": null, "diameter_sigma": null}
+[18-01-28] (DATA) NASA'S API COMET : {}
+[18-01-28] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2015 RN35 : 686198
+[18-01-28] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-01-28] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2015 RN35 d'un diamètre estimé entre 63m et 142m passe actuellement à 686,198km de la #terre (soit 1.79 fois la distance terre-lune) à une vitesse de 5.91km/s (21276km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-01-28] (EVENT) PNG : CREATING PNG
+[18-01-28] (DATA) PNG : PNG './pngs/result_09-12-2022_18-00-03.png' CREATED
+[18-01-28] (EVENT) TWEET : POST INIT
+[18-01-28] (EVENT) TWEET : POST APPEND
+[18-01-29] (EVENT) TWEET : POST FINALIZE
+[18-01-29] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-01-30] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : disabled_brain_
+[18-01-30] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
