@@ -2523,3 +2523,21 @@
 [18-00-48] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
 [DATA LAST FOLLOWER] : disabled_brain_
 [18-00-48] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[13-12-2022]
+[18-00-02] (EVENT) NASA'S API : GATHERING DATA
+[18-01-44] (DATA) NASA'S API ASTEROID : {"des": "2022 XX", "orbit_id": "1", "jd": "2459927.946777264", "cd": "2022-Dec-14 10:43", "dist": "0.00139344175718862", "dist_min": "0.00138901816259642", "dist_max": "0.00139786359405477", "v_rel": "6.64543896101636", "v_inf": "6.35118454210758", "t_sigma_f": "00:09", "h": "28.668", "diameter": null, "diameter_sigma": null}
+[18-01-44] (DATA) NASA'S API COMET : {}
+[18-01-44] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 XX : 208456
+[18-01-44] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-01-44] (DATA) TWEET'S TEXT : 🔴 L'#asteroide 2022 XX d'un diamètre estimé entre 5m et 11m passe actuellement à 208,456km de la #terre (soit 0.54 fois la distance terre-lune) à une vitesse de 6.65km/s (23924km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🔴
+[18-01-44] (EVENT) PNG : CREATING PNG
+[18-01-44] (DATA) PNG : PNG './pngs/result_13-12-2022_18-00-02.png' CREATED
+[18-01-44] (EVENT) TWEET : POST INIT
+[18-01-44] (EVENT) TWEET : POST APPEND
+[18-01-44] (EVENT) TWEET : POST FINALIZE
+[18-01-45] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-01-45] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : disabled_brain_
+[18-01-46] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
