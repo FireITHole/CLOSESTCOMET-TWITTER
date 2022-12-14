@@ -2541,3 +2541,6 @@
 [18-01-45] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
 [DATA LAST FOLLOWER] : disabled_brain_
 [18-01-46] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[14-12-2022]
+[18-00-07] (EVENT) NASA'S API : GATHERING DATA
