@@ -2559,21 +2559,3 @@
 [18-01-45] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
 [DATA LAST FOLLOWER] : disabled_brain_
 [18-01-46] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
------------------------------------------------------------------------------------------
-[15-12-2022]
-[14-05-33] (EVENT) NASA'S API : GATHERING DATA
-[14-05-36] (DATA) NASA'S API ASTEROID : {"des": "2015 RN35", "orbit_id": "41", "jd": "2459928.841404885", "cd": "2022-Dec-15 08:12", "dist": "0.00458713489682815", "dist_min": "0.00458697983902437", "dist_max": "0.00458728995467547", "v_rel": "5.90988057176608", "v_inf": "5.81076329288468", "t_sigma_f": "< 00:01", "h": "23.11", "diameter": null, "diameter_sigma": null}
-[14-05-36] (DATA) NASA'S API COMET : {}
-[14-05-36] (EVENT) TYPE CHOICE : a
-[DATA NAME DIST] : 2015 RN35 : 686226
-[14-05-36] (EVENT) TWEET : CREATING TWEET'S TEXT
-[14-05-36] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2015 RN35 d'un diamètre estimé entre 63m et 142m passe actuellement à 686,226km de la #terre (soit 1.79 fois la distance terre-lune) à une vitesse de 5.91km/s (21276km/h) 🟠
-[14-05-36] (EVENT) PNG : CREATING PNG
-[14-05-36] (DATA) PNG : PNG './pngs/result_15-12-2022_14-05-33.png' CREATED
-[14-05-36] (EVENT) TWEET : POST INIT
-[14-05-36] (EVENT) TWEET : POST APPEND
-[14-05-36] (EVENT) TWEET : POST FINALIZE
-[14-05-37] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
-[14-05-38] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
-[DATA LAST FOLLOWER] : disabled_brain_
-[14-05-38] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
