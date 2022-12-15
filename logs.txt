@@ -2543,7 +2543,7 @@
 [18-01-46] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
 -----------------------------------------------------------------------------------------
 [14-12-2022]
-[18-00-02] (EVENT) NASA'S API : GATHERING DATA
+[18-00-01] (EVENT) NASA'S API : GATHERING DATA
 [18-01-44] (DATA) NASA'S API ASTEROID : {"des": "2022 XX", "orbit_id": "1", "jd": "2459927.946777264", "cd": "2022-Dec-14 10:43", "dist": "0.00139344175718862", "dist_min": "0.00138901816259642", "dist_max": "0.00139786359405477", "v_rel": "6.64543896101636", "v_inf": "6.35118454210758", "t_sigma_f": "00:09", "h": "28.668", "diameter": null, "diameter_sigma": null}
 [18-01-44] (DATA) NASA'S API COMET : {}
 [18-01-44] (EVENT) TYPE CHOICE : a
