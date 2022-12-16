@@ -2577,3 +2577,21 @@
 [18-00-28] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
 [DATA LAST FOLLOWER] : disabled_brain_
 [18-00-29] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[16-12-2022]
+[18-00-04] (EVENT) NASA'S API : GATHERING DATA
+[18-00-30] (DATA) NASA'S API ASTEROID : {"des": "2010 XC15", "orbit_id": "42", "jd": "2459941.260652915", "cd": "2022-Dec-27 18:15", "dist": "0.0051623969664773", "dist_min": "0.00516207732839343", "dist_max": "0.00516271660478391", "v_rel": "10.0993207458833", "v_inf": "10.0480851466758", "t_sigma_f": "< 00:01", "h": "21.45", "diameter": null, "diameter_sigma": null}
+[18-00-30] (DATA) NASA'S API COMET : {}
+[18-00-30] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2010 XC15 : 772284
+[18-00-30] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-30] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2010 XC15 d'un diamètre estimé entre 136m et 305m passe actuellement à 772,284km de la #terre (soit 2.01 fois la distance terre-lune) à une vitesse de 10.1km/s (36358km/h) 🟠
+[18-00-30] (EVENT) PNG : CREATING PNG
+[18-00-30] (DATA) PNG : PNG './pngs/result_16-12-2022_18-00-04.png' CREATED
+[18-00-30] (EVENT) TWEET : POST INIT
+[18-00-30] (EVENT) TWEET : POST APPEND
+[18-00-30] (EVENT) TWEET : POST FINALIZE
+[18-00-31] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-32] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : NerudaDieppe
+[18-00-32] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
