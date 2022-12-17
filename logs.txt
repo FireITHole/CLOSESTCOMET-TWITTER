@@ -2595,3 +2595,21 @@
 [18-00-32] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
 [DATA LAST FOLLOWER] : NerudaDieppe
 [18-00-32] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[17-12-2022]
+[18-00-02] (EVENT) NASA'S API : GATHERING DATA
+[18-00-22] (DATA) NASA'S API ASTEROID : {"des": "2022 YC", "orbit_id": "1", "jd": "2459932.225421751", "cd": "2022-Dec-18 17:25", "dist": "0.00261257810784141", "dist_min": "0.00260554616602873", "dist_max": "0.00261960735069104", "v_rel": "4.9593899514768", "v_inf": "4.74929646152389", "t_sigma_f": "00:01", "h": "29.511", "diameter": null, "diameter_sigma": null}
+[18-00-22] (DATA) NASA'S API COMET : {}
+[18-00-22] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 YC : 390836
+[18-00-22] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-22] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2022 YC d'un diamètre estimé entre 3m et 7m passe actuellement à 390,836km de la #terre (soit 1.02 fois la distance terre-lune) à une vitesse de 4.96km/s (17854km/h) 🟠
+[18-00-22] (EVENT) PNG : CREATING PNG
+[18-00-22] (DATA) PNG : PNG './pngs/result_17-12-2022_18-00-02.png' CREATED
+[18-00-22] (EVENT) TWEET : POST INIT
+[18-00-22] (EVENT) TWEET : POST APPEND
+[18-00-22] (EVENT) TWEET : POST FINALIZE
+[18-00-23] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-23] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : NerudaDieppe
+[18-00-24] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
