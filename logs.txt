@@ -2613,3 +2613,21 @@
 [18-00-23] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
 [DATA LAST FOLLOWER] : NerudaDieppe
 [18-00-24] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[18-12-2022]
+[18-00-02] (EVENT) NASA'S API : GATHERING DATA
+[18-00-31] (DATA) NASA'S API ASTEROID : {"des": "2022 YJ", "orbit_id": "1", "jd": "2459931.995706104", "cd": "2022-Dec-18 11:54", "dist": "0.00188228938226576", "dist_min": "0.00187730898054613", "dist_max": "0.00188726967196211", "v_rel": "24.7833719841029", "v_inf": "24.7261889908555", "t_sigma_f": "< 00:01", "h": "28.896", "diameter": null, "diameter_sigma": null}
+[18-00-31] (DATA) NASA'S API COMET : {}
+[18-00-31] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 YJ : 281586
+[18-00-31] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-31] (DATA) TWEET'S TEXT : 🔴 L'#asteroide 2022 YJ d'un diamètre estimé entre 4m et 10m passe actuellement à 281,586km de la #terre (soit 0.73 fois la distance terre-lune) à une vitesse de 24.78km/s (89220km/h) 🔴
+[18-00-31] (EVENT) PNG : CREATING PNG
+[18-00-31] (DATA) PNG : PNG './pngs/result_18-12-2022_18-00-02.png' CREATED
+[18-00-31] (EVENT) TWEET : POST INIT
+[18-00-31] (EVENT) TWEET : POST APPEND
+[18-00-32] (EVENT) TWEET : POST FINALIZE
+[18-00-32] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-33] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : NerudaDieppe
+[18-00-33] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
