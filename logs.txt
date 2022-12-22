@@ -2685,3 +2685,21 @@
 [18-00-27] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
 [DATA LAST FOLLOWER] : Gdelaunay2046
 [18-00-28] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[22-12-2022]
+[18-00-03] (EVENT) NASA'S API : GATHERING DATA
+[18-00-38] (DATA) NASA'S API ASTEROID : {"des": "2022 YG2", "orbit_id": "1", "jd": "2459936.253190223", "cd": "2022-Dec-22 18:05", "dist": "0.00243512481864666", "dist_min": "0.00243095177820734", "dist_max": "0.00243929710880415", "v_rel": "6.38056275862641", "v_inf": "6.20670679485125", "t_sigma_f": "< 00:01", "h": "28.506", "diameter": null, "diameter_sigma": null}
+[18-00-38] (DATA) NASA'S API COMET : {}
+[18-00-38] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2022 YG2 : 364289
+[18-00-38] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-38] (DATA) TWEET'S TEXT : 🔴 L'#asteroide 2022 YG2 d'un diamètre estimé entre 5m et 12m passe actuellement à 364,289km de la #terre (soit 0.95 fois la distance terre-lune) à une vitesse de 6.38km/s (22970km/h) 🔴
+[18-00-38] (EVENT) PNG : CREATING PNG
+[18-00-38] (DATA) PNG : PNG './pngs/result_22-12-2022_18-00-03.png' CREATED
+[18-00-38] (EVENT) TWEET : POST INIT
+[18-00-38] (EVENT) TWEET : POST APPEND
+[18-00-38] (EVENT) TWEET : POST FINALIZE
+[18-00-39] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-39] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : Gdelaunay2046
+[18-00-39] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
