@@ -2829,3 +2829,21 @@
 [18-00-37] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
 [DATA LAST FOLLOWER] : Histoireinvent
 [18-00-37] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[30-12-2022]
+[18-00-03] (EVENT) NASA'S API : GATHERING DATA
+[18-00-40] (DATA) NASA'S API ASTEROID : {"des": "2020 DG4", "orbit_id": "7", "jd": "2459993.445587536", "cd": "2023-Feb-17 22:42", "dist": "0.00369244188194289", "dist_min": "0.00297819606291202", "dist_max": "0.0276770682501224", "v_rel": "6.92028867583675", "v_inf": "6.81521739682228", "t_sigma_f": "4_08:56", "h": "28.2", "diameter": null, "diameter_sigma": null}
+[18-00-40] (DATA) NASA'S API COMET : {}
+[18-00-40] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2020 DG4 : 552381
+[18-00-40] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-40] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2020 DG4 d'un diamètre estimé entre 6m et 14m passe actuellement à 552,381km de la #terre (soit 1.44 fois la distance terre-lune) à une vitesse de 6.92km/s (24913km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-00-40] (EVENT) PNG : CREATING PNG
+[18-00-40] (DATA) PNG : PNG './pngs/result_30-12-2022_18-00-03.png' CREATED
+[18-00-40] (EVENT) TWEET : POST INIT
+[18-00-40] (EVENT) TWEET : POST APPEND
+[18-00-40] (EVENT) TWEET : POST FINALIZE
+[18-00-41] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-42] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : Histoireinvent
+[18-00-42] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
