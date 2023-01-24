@@ -3246,3 +3246,21 @@
 [18-00-29] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
 [DATA LAST FOLLOWER] : Ouedrao40991917
 [18-00-30] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[24-01-2023]
+[18-00-02] (EVENT) NASA'S API : GATHERING DATA
+[18-00-23] (DATA) NASA'S API ASTEROID : {"des": "2023 BU", "orbit_id": "4", "jd": "2459971.517747518", "cd": "2023-Jan-27 00:26", "dist": "6.66901758012074e-05", "dist_min": "6.65080290411634e-05", "dist_max": "6.68724812414164e-05", "v_rel": "9.26386091131166", "v_inf": "2.43164897248678", "t_sigma_f": "00:10", "h": "29.242", "diameter": null, "diameter_sigma": null}
+[18-00-23] (DATA) NASA'S API COMET : {}
+[18-00-23] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2023 BU : 9977
+[18-00-23] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-23] (DATA) TWEET'S TEXT : 🔴 L'#asteroide 2023 BU d'un diamètre estimé entre 4m et 8m passe actuellement à 9,977km de la #terre (soit 0.03 fois la distance terre-lune) à une vitesse de 9.26km/s (33350km/h). Cet objet spacial s'est éloigné de 5km depuis hier 🔴
+[18-00-23] (EVENT) PNG : CREATING PNG
+[18-00-23] (DATA) PNG : PNG './pngs/result_24-01-2023_18-00-02.png' CREATED
+[18-00-23] (EVENT) TWEET : POST INIT
+[18-00-23] (EVENT) TWEET : POST APPEND
+[18-00-23] (EVENT) TWEET : POST FINALIZE
+[18-00-24] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-25] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : LaFronceProfane
+[18-00-25] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
