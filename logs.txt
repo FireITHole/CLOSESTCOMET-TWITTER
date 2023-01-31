@@ -3372,3 +3372,21 @@
 [18-00-27] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
 [DATA LAST FOLLOWER] : stellar_trip
 [18-00-27] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[31-01-2023]
+[18-00-03] (EVENT) NASA'S API : GATHERING DATA
+[18-00-46] (DATA) NASA'S API ASTEROID : {"des": "2023 BU7", "orbit_id": "1", "jd": "2459983.593838628", "cd": "2023-Feb-08 02:15", "dist": "0.00330687238985639", "dist_min": "0.0032708885758737", "dist_max": "0.00334263607424802", "v_rel": "1.65510545739618", "v_inf": "1.06202358164686", "t_sigma_f": "00:12", "h": "30.677", "diameter": null, "diameter_sigma": null}
+[18-00-46] (DATA) NASA'S API COMET : {}
+[18-00-46] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2023 BU7 : 494701
+[18-00-46] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-46] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2023 BU7 d'un diamètre estimé entre 2m et 4m passe actuellement à 494,701km de la #terre (soit 1.29 fois la distance terre-lune) à une vitesse de 1.66km/s (5958km/h) 🟠
+[18-00-46] (EVENT) PNG : CREATING PNG
+[18-00-46] (DATA) PNG : PNG './pngs/result_31-01-2023_18-00-03.png' CREATED
+[18-00-46] (EVENT) TWEET : POST INIT
+[18-00-46] (EVENT) TWEET : POST APPEND
+[18-00-46] (EVENT) TWEET : POST FINALIZE
+[18-00-47] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-48] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : SirJek810
+[18-00-48] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
