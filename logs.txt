@@ -3516,3 +3516,21 @@
 [18-00-49] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
 [DATA LAST FOLLOWER] : LeblancDomini10
 [18-00-50] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[08-02-2023]
+[18-00-01] (EVENT) NASA'S API : GATHERING DATA
+[18-00-23] (DATA) NASA'S API ASTEROID : {"des": "2023 BU7", "orbit_id": "2", "jd": "2459983.593508102", "cd": "2023-Feb-08 02:15", "dist": "0.00330528968767537", "dist_min": "0.00329144228430428", "dist_max": "0.00331908824599408", "v_rel": "1.65510800123813", "v_inf": "1.06166419779953", "t_sigma_f": "00:11", "h": "30.71", "diameter": null, "diameter_sigma": null}
+[18-00-23] (DATA) NASA'S API COMET : {}
+[18-00-23] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2023 BU7 : 494464
+[18-00-23] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-23] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2023 BU7 d'un diamètre estimé entre 2m et 4m passe actuellement à 494,464km de la #terre (soit 1.29 fois la distance terre-lune) à une vitesse de 1.66km/s (5958km/h). Cet objet spacial ne s'est pas rapproché depuis hier 🟠
+[18-00-23] (EVENT) PNG : CREATING PNG
+[18-00-23] (DATA) PNG : PNG './pngs/result_08-02-2023_18-00-01.png' CREATED
+[18-00-23] (EVENT) TWEET : POST INIT
+[18-00-24] (EVENT) TWEET : POST APPEND
+[18-00-24] (EVENT) TWEET : POST FINALIZE
+[18-00-25] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-25] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : LeblancDomini10
+[18-00-25] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
