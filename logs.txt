@@ -3624,3 +3624,21 @@
 [18-00-28] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
 [DATA LAST FOLLOWER] : rryyyaaaaannn
 [18-00-29] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[14-02-2023]
+[18-00-02] (EVENT) NASA'S API : GATHERING DATA
+[18-00-28] (DATA) NASA'S API ASTEROID : {"des": "2023 CH2", "orbit_id": "2", "jd": "2459989.910459546", "cd": "2023-Feb-14 09:51", "dist": "0.00278936300627751", "dist_min": "0.00278679739521056", "dist_max": "0.00279192852800745", "v_rel": "10.0533975515318", "v_inf": "9.95792875630811", "t_sigma_f": "< 00:01", "h": "26.39", "diameter": null, "diameter_sigma": null}
+[18-00-28] (DATA) NASA'S API COMET : {}
+[18-00-28] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2023 CH2 : 417283
+[18-00-28] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-28] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2023 CH2 d'un diamètre estimé entre 14m et 31m passe actuellement à 417,283km de la #terre (soit 1.09 fois la distance terre-lune) à une vitesse de 10.05km/s (36192km/h) 🟠
+[18-00-28] (EVENT) PNG : CREATING PNG
+[18-00-28] (DATA) PNG : PNG './pngs/result_14-02-2023_18-00-02.png' CREATED
+[18-00-28] (EVENT) TWEET : POST INIT
+[18-00-29] (EVENT) TWEET : POST APPEND
+[18-00-29] (EVENT) TWEET : POST FINALIZE
+[18-00-30] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-30] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : LeMondeSelonMoi
+[18-00-31] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
