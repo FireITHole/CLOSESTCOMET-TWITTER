@@ -3714,3 +3714,21 @@
 [18-00-20] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
 [DATA LAST FOLLOWER] : marin_ma2
 [18-00-21] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[19-02-2023]
+[18-00-02] (EVENT) NASA'S API : GATHERING DATA
+[18-00-30] (DATA) NASA'S API ASTEROID : {"des": "2023 CM2", "orbit_id": "4", "jd": "2459998.114685923", "cd": "2023-Feb-22 14:45", "dist": "0.00548408054537969", "dist_min": "0.00546799877392623", "dist_max": "0.00550016158928241", "v_rel": "11.2518860073612", "v_inf": "11.2086227776086", "t_sigma_f": "00:01", "h": "26.116", "diameter": null, "diameter_sigma": null}
+[18-00-30] (DATA) NASA'S API COMET : {}
+[18-00-30] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2023 CM2 : 820407
+[18-00-30] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-30] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2023 CM2 d'un diamètre estimé entre 16m et 36m passe actuellement à 820,407km de la #terre (soit 2.13 fois la distance terre-lune) à une vitesse de 11.25km/s (40507km/h). Cet objet spacial s'est éloigné de 437km depuis hier 🟠
+[18-00-30] (EVENT) PNG : CREATING PNG
+[18-00-30] (DATA) PNG : PNG './pngs/result_19-02-2023_18-00-02.png' CREATED
+[18-00-30] (EVENT) TWEET : POST INIT
+[18-00-30] (EVENT) TWEET : POST APPEND
+[18-00-31] (EVENT) TWEET : POST FINALIZE
+[18-00-31] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-32] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : marin_ma2
+[18-00-32] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
