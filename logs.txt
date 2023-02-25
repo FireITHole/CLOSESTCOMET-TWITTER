@@ -3822,3 +3822,21 @@
 [18-00-27] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
 [DATA LAST FOLLOWER] : VentalonCevenne
 [18-00-27] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[25-02-2023]
+[18-00-01] (EVENT) NASA'S API : GATHERING DATA
+[18-00-28] (DATA) NASA'S API ASTEROID : {"des": "2023 DR", "orbit_id": "1", "jd": "2460000.740698134", "cd": "2023-Feb-25 05:47", "dist": "0.00050722098537933", "dist_min": "0.000506763755032996", "dist_max": "0.000507678240689915", "v_rel": "13.9653148110697", "v_inf": "13.5839548905909", "t_sigma_f": "< 00:01", "h": "29.916", "diameter": null, "diameter_sigma": null}
+[18-00-28] (DATA) NASA'S API COMET : {}
+[18-00-28] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2023 DR : 75879
+[18-00-28] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-28] (DATA) TWEET'S TEXT : 🔴 L'#asteroide 2023 DR d'un diamètre estimé entre 3m et 6m passe actuellement à 75,879km de la #terre (soit 0.2 fois la distance terre-lune) à une vitesse de 13.97km/s (50275km/h) 🔴
+[18-00-28] (EVENT) PNG : CREATING PNG
+[18-00-28] (DATA) PNG : PNG './pngs/result_25-02-2023_18-00-01.png' CREATED
+[18-00-28] (EVENT) TWEET : POST INIT
+[18-00-28] (EVENT) TWEET : POST APPEND
+[18-00-28] (EVENT) TWEET : POST FINALIZE
+[18-00-29] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-29] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : Stellandromede
+[18-00-30] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
