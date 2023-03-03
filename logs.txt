@@ -3930,3 +3930,6 @@
 [18-00-25] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
 [DATA LAST FOLLOWER] : GuilletBruno1
 [18-00-25] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[03-03-2023]
+[18-00-11] (EVENT) NASA'S API : GATHERING DATA
