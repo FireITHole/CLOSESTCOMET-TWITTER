@@ -3965,3 +3965,21 @@
 [18-00-31] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
 [DATA LAST FOLLOWER] : GuilletBruno1
 [18-00-31] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[04-03-2023]
+[20-37-26] (EVENT) NASA'S API : GATHERING DATA
+[20-37-31] (DATA) NASA'S API ASTEROID : {"des": "2023 DU", "orbit_id": "7", "jd": "2460008.572828315", "cd": "2023-Mar-05 01:45", "dist": "0.00849542841150434", "dist_min": "0.0084843363030063", "dist_max": "0.00850652038831159", "v_rel": "11.7286530924661", "v_inf": "11.7018814589571", "t_sigma_f": "< 00:01", "h": "25.282", "diameter": null, "diameter_sigma": null}
+[20-37-31] (DATA) NASA'S API COMET : {}
+[20-37-31] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2023 DU : 1270898
+[20-37-31] (EVENT) TWEET : CREATING TWEET'S TEXT
+[20-37-31] (DATA) TWEET'S TEXT : 🟢 L'#asteroide 2023 DU d'un diamètre estimé entre 23m et 52m passe actuellement à 1,270,898km de la #terre (soit 3.31 fois la distance terre-lune) à une vitesse de 11.73km/s (42223km/h). Cet objet spacial s'est éloigné de 44km depuis hier 🟢
+[20-37-31] (EVENT) PNG : CREATING PNG
+[20-37-31] (DATA) PNG : PNG './pngs/result_04-03-2023_20-37-26.png' CREATED
+[20-37-31] (EVENT) TWEET : POST INIT
+[20-37-32] (EVENT) TWEET : POST APPEND
+[20-37-32] (EVENT) TWEET : POST FINALIZE
+[20-37-33] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[20-37-33] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : GuilletBruno1
+[20-37-33] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
