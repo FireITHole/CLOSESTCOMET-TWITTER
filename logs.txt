@@ -4218,3 +4218,21 @@
 [18-00-34] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
 [DATA LAST FOLLOWER] : Th3Freeman
 [18-00-35] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[19-03-2023]
+[18-00-03] (EVENT) NASA'S API : GATHERING DATA
+[18-00-41] (DATA) NASA'S API ASTEROID : {"des": "2023 DZ2", "orbit_id": "5", "jd": "2460029.327503800", "cd": "2023-Mar-25 19:52", "dist": "0.00116768498265424", "dist_min": "0.00116552783013053", "dist_max": "0.00116984199605611", "v_rel": "7.77916774280609", "v_inf": "7.48009059381698", "t_sigma_f": "00:07", "h": "23.936", "diameter": null, "diameter_sigma": null}
+[18-00-41] (DATA) NASA'S API COMET : {}
+[18-00-41] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2023 DZ2 : 174683
+[18-00-41] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-41] (DATA) TWEET'S TEXT : 🔴 L'#asteroide 2023 DZ2 d'un diamètre estimé entre 43m et 97m passe actuellement à 174,683km de la #terre (soit 0.45 fois la distance terre-lune) à une vitesse de 7.78km/s (28005km/h). Cet objet spacial s'est rapproché de 31km depuis hier 🔴
+[18-00-41] (EVENT) PNG : CREATING PNG
+[18-00-41] (DATA) PNG : PNG './pngs/result_19-03-2023_18-00-03.png' CREATED
+[18-00-41] (EVENT) TWEET : POST INIT
+[18-00-42] (EVENT) TWEET : POST APPEND
+[18-00-42] (EVENT) TWEET : POST FINALIZE
+[18-00-43] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-43] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : Th3Freeman
+[18-00-43] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
