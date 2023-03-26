@@ -4344,3 +4344,21 @@
 [18-00-35] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
 [DATA LAST FOLLOWER] : IUTdeBobigny
 [18-00-36] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[26-03-2023]
+[18-00-03] (EVENT) NASA'S API : GATHERING DATA
+[18-00-42] (DATA) NASA'S API ASTEROID : {"des": "2023 FW2", "orbit_id": "3", "jd": "2460030.969151373", "cd": "2023-Mar-27 11:16", "dist": "0.00811078862047059", "dist_min": "0.00806883666639057", "dist_max": "0.00815273683376877", "v_rel": "8.68269282789021", "v_inf": "8.6447749372455", "t_sigma_f": "< 00:01", "h": "28.074", "diameter": null, "diameter_sigma": null}
+[18-00-42] (DATA) NASA'S API COMET : {}
+[18-00-42] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2023 FW2 : 1213357
+[18-00-42] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-42] (DATA) TWEET'S TEXT : 🟢 L'#asteroide 2023 FW2 d'un diamètre estimé entre 6m et 14m passe actuellement à 1,213,357km de la #terre (soit 3.16 fois la distance terre-lune) à une vitesse de 8.68km/s (31258km/h) 🟢
+[18-00-42] (EVENT) PNG : CREATING PNG
+[18-00-42] (DATA) PNG : PNG './pngs/result_26-03-2023_18-00-03.png' CREATED
+[18-00-42] (EVENT) TWEET : POST INIT
+[18-00-42] (EVENT) TWEET : POST APPEND
+[18-00-42] (EVENT) TWEET : POST FINALIZE
+[18-00-43] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-44] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : Maurici00128842
+[18-00-44] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
