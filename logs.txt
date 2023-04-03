@@ -4488,3 +4488,21 @@
 [18-00-24] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
 [DATA LAST FOLLOWER] : Maurici00128842
 [18-00-24] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[03-04-2023]
+[18-00-03] (EVENT) NASA'S API : GATHERING DATA
+[18-00-05] (DATA) NASA'S API ASTEROID : {"des": "2023 FN13", "orbit_id": "3", "jd": "2460050.338386178", "cd": "2023-Apr-15 20:07", "dist": "0.00670441055792051", "dist_min": "0.0066559539526536", "dist_max": "0.00675284606427114", "v_rel": "4.52626355009928", "v_inf": "4.4375914635984", "t_sigma_f": "00:23", "h": "27.422", "diameter": null, "diameter_sigma": null}
+[18-00-05] (DATA) NASA'S API COMET : {}
+[18-00-05] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2023 FN13 : 1002966
+[18-00-05] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-05] (DATA) TWEET'S TEXT : 🟢 L'#asteroide 2023 FN13 d'un diamètre estimé entre 9m et 19m passe actuellement à 1,002,966km de la #terre (soit 2.61 fois la distance terre-lune) à une vitesse de 4.53km/s (16295km/h). Cet objet spacial s'est éloigné de 889km depuis hier 🟢
+[18-00-05] (EVENT) PNG : CREATING PNG
+[18-00-05] (DATA) PNG : PNG './pngs/result_03-04-2023_18-00-03.png' CREATED
+[18-00-05] (EVENT) TWEET : POST INIT
+[18-00-05] (EVENT) TWEET : POST APPEND
+[18-00-05] (EVENT) TWEET : POST FINALIZE
+[18-00-06] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-07] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : Maurici00128842
+[18-00-07] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
