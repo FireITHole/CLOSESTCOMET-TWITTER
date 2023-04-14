@@ -4686,3 +4686,21 @@
 [18-00-08] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
 [DATA LAST FOLLOWER] : Spacio_Temporel
 [18-00-08] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[14-04-2023]
+[18-00-05] (EVENT) NASA'S API : GATHERING DATA
+[18-00-07] (DATA) NASA'S API ASTEROID : {"des": "2023 GZ", "orbit_id": "2", "jd": "2460049.805019349", "cd": "2023-Apr-15 07:19", "dist": "0.00508326026832466", "dist_min": "0.0050752979849161", "dist_max": "0.00509122220327497", "v_rel": "8.59691873354016", "v_inf": "8.53572943006766", "t_sigma_f": "< 00:01", "h": "27.614", "diameter": null, "diameter_sigma": null}
+[18-00-07] (DATA) NASA'S API COMET : {}
+[18-00-07] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2023 GZ : 760445
+[18-00-07] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-07] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2023 GZ d'un diamètre estimé entre 8m et 18m passe actuellement à 760,445km de la #terre (soit 1.98 fois la distance terre-lune) à une vitesse de 8.6km/s (30949km/h). Cet objet spacial s'est rapproché de 76km depuis hier 🟠
+[18-00-07] (EVENT) PNG : CREATING PNG
+[18-00-07] (DATA) PNG : PNG './pngs/result_14-04-2023_18-00-05.png' CREATED
+[18-00-07] (EVENT) TWEET : POST INIT
+[18-00-07] (EVENT) TWEET : POST APPEND
+[18-00-08] (EVENT) TWEET : POST FINALIZE
+[18-00-08] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-09] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : Spacio_Temporel
+[18-00-09] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
