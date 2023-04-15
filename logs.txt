@@ -4704,3 +4704,21 @@
 [18-00-09] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
 [DATA LAST FOLLOWER] : Spacio_Temporel
 [18-00-09] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
+-----------------------------------------------------------------------------------------
+[15-04-2023]
+[18-00-03] (EVENT) NASA'S API : GATHERING DATA
+[18-00-05] (DATA) NASA'S API ASTEROID : {"des": "2023 GQ1", "orbit_id": "1", "jd": "2460053.176080461", "cd": "2023-Apr-18 16:14", "dist": "0.00283855978961969", "dist_min": "0.00283059222014213", "dist_max": "0.00284653721164328", "v_rel": "2.59101126796991", "v_inf": "2.19908923372388", "t_sigma_f": "00:11", "h": "30.256", "diameter": null, "diameter_sigma": null}
+[18-00-05] (DATA) NASA'S API COMET : {}
+[18-00-05] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2023 GQ1 : 424643
+[18-00-05] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-05] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2023 GQ1 d'un diamètre estimé entre 2m et 5m passe actuellement à 424,643km de la #terre (soit 1.1 fois la distance terre-lune) à une vitesse de 2.59km/s (9328km/h) 🟠
+[18-00-05] (EVENT) PNG : CREATING PNG
+[18-00-05] (DATA) PNG : PNG './pngs/result_15-04-2023_18-00-03.png' CREATED
+[18-00-05] (EVENT) TWEET : POST INIT
+[18-00-05] (EVENT) TWEET : POST APPEND
+[18-00-05] (EVENT) TWEET : POST FINALIZE
+[18-00-06] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-07] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : Spacio_Temporel
+[18-00-07] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
