@@ -4794,3 +4794,21 @@
 [18-00-07] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
 [DATA LAST FOLLOWER] : StarryNiteTales
 [18-00-08] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[20-04-2023]
+[18-00-03] (EVENT) NASA'S API : GATHERING DATA
+[18-00-06] (DATA) NASA'S API ASTEROID : {"des": "2023 HK", "orbit_id": "5", "jd": "2460054.713522102", "cd": "2023-Apr-20 05:07", "dist": "0.00228006449051326", "dist_min": "0.00227887000761951", "dist_max": "0.00228125896202301", "v_rel": "15.9252234407552", "v_inf": "15.8516732608585", "t_sigma_f": "< 00:01", "h": "27.053", "diameter": null, "diameter_sigma": null}
+[18-00-06] (DATA) NASA'S API COMET : {}
+[18-00-06] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2023 HK : 341093
+[18-00-06] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-06] (DATA) TWEET'S TEXT : 🔴 L'#asteroide 2023 HK d'un diamètre estimé entre 10m et 23m passe actuellement à 341,093km de la #terre (soit 0.89 fois la distance terre-lune) à une vitesse de 15.93km/s (57331km/h). Cet objet spacial s'est rapproché de 47km depuis hier 🔴
+[18-00-06] (EVENT) PNG : CREATING PNG
+[18-00-06] (DATA) PNG : PNG './pngs/result_20-04-2023_18-00-03.png' CREATED
+[18-00-06] (EVENT) TWEET : POST INIT
+[18-00-06] (EVENT) TWEET : POST APPEND
+[18-00-06] (EVENT) TWEET : POST FINALIZE
+[18-00-07] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-08] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : iamshowbizzman
+[18-00-08] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
