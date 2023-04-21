@@ -4812,3 +4812,21 @@
 [18-00-08] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
 [DATA LAST FOLLOWER] : iamshowbizzman
 [18-00-08] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[21-04-2023]
+[18-00-03] (EVENT) NASA'S API : GATHERING DATA
+[18-00-05] (DATA) NASA'S API ASTEROID : {"des": "2023 HJ2", "orbit_id": "2", "jd": "2460058.999350792", "cd": "2023-Apr-24 11:59", "dist": "0.00572001332281755", "dist_min": "0.00569298071098833", "dist_max": "0.00574704432221087", "v_rel": "11.8400086831641", "v_inf": "11.8006004785824", "t_sigma_f": "00:03", "h": "27.343", "diameter": null, "diameter_sigma": null}
+[18-00-05] (DATA) NASA'S API COMET : {}
+[18-00-05] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2023 HJ2 : 855702
+[18-00-05] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-05] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2023 HJ2 d'un diamètre estimé entre 9m et 20m passe actuellement à 855,702km de la #terre (soit 2.23 fois la distance terre-lune) à une vitesse de 11.84km/s (42624km/h) 🟠
+[18-00-05] (EVENT) PNG : CREATING PNG
+[18-00-05] (DATA) PNG : PNG './pngs/result_21-04-2023_18-00-03.png' CREATED
+[18-00-05] (EVENT) TWEET : POST INIT
+[18-00-05] (EVENT) TWEET : POST APPEND
+[18-00-05] (EVENT) TWEET : POST FINALIZE
+[18-00-06] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-07] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : kadiali_n
+[18-00-07] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
