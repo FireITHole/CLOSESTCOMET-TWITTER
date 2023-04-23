@@ -4848,3 +4848,21 @@
 [18-00-07] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
 [DATA LAST FOLLOWER] : asamantv23
 [18-00-07] (EVENT) REPLY : REPLY LAST POSTED SUCCESSFULLY
+-----------------------------------------------------------------------------------------
+[23-04-2023]
+[18-00-03] (EVENT) NASA'S API : GATHERING DATA
+[18-00-06] (DATA) NASA'S API ASTEROID : {"des": "2023 HH3", "orbit_id": "2", "jd": "2460060.227262616", "cd": "2023-Apr-25 17:27", "dist": "0.00268882727633294", "dist_min": "0.00267642329108463", "dist_max": "0.00270115596729495", "v_rel": "13.3469166091169", "v_inf": "13.272463728426", "t_sigma_f": "00:04", "h": "27.106", "diameter": null, "diameter_sigma": null}
+[18-00-06] (DATA) NASA'S API COMET : {}
+[18-00-06] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2023 HH3 : 402243
+[18-00-06] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-06] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2023 HH3 d'un diamètre estimé entre 10m et 23m passe actuellement à 402,243km de la #terre (soit 1.05 fois la distance terre-lune) à une vitesse de 13.35km/s (48049km/h). Cet objet spacial s'est rapproché de 102km depuis hier 🟠
+[18-00-06] (EVENT) PNG : CREATING PNG
+[18-00-06] (DATA) PNG : PNG './pngs/result_23-04-2023_18-00-03.png' CREATED
+[18-00-06] (EVENT) TWEET : POST INIT
+[18-00-06] (EVENT) TWEET : POST APPEND
+[18-00-06] (EVENT) TWEET : POST FINALIZE
+[18-00-07] (EVENT) TWEET : TWEET POSTED SUCCESSFULLY
+[18-00-07] (EVENT) REPLY : REPLY EXP POSTED SUCCESSFULLY
+[DATA LAST FOLLOWER] : asamantv23
+[18-00-08] (EVENT) LAST FOLLOWER : NOT POSTING LAST REPLY BECAUSE YESTERDAY FOLLOWER IS THE SAME AS TODAY'S
