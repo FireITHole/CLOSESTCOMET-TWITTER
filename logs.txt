@@ -4933,3 +4933,16 @@
 [18-00-06] (DATA) PNG : PNG './pngs/result_27-04-2023_18-00-03.png' CREATED
 [18-00-06] (EVENT) TWEET : POST INIT
 [18-00-07] (ERROR) TWEET : POST INIT FAILED WITH ERROR : {'errors': [{'message': 'Could not authenticate you', 'code': 32}]}
+-----------------------------------------------------------------------------------------
+[28-04-2023]
+[18-00-03] (EVENT) NASA'S API : GATHERING DATA
+[18-00-05] (DATA) NASA'S API ASTEROID : {"des": "2023 HV5", "orbit_id": "2", "jd": "2460067.636412634", "cd": "2023-May-03 03:16", "dist": "0.00290884188269783", "dist_min": "0.00290055278240706", "dist_max": "0.00291713023528823", "v_rel": "8.93148633613235", "v_inf": "8.8283329006306", "t_sigma_f": "00:05", "h": "27.141", "diameter": null, "diameter_sigma": null}
+[18-00-05] (DATA) NASA'S API COMET : {}
+[18-00-05] (EVENT) TYPE CHOICE : a
+[DATA NAME DIST] : 2023 HV5 : 435157
+[18-00-05] (EVENT) TWEET : CREATING TWEET'S TEXT
+[18-00-05] (DATA) TWEET'S TEXT : 🟠 L'#asteroide 2023 HV5 d'un diamètre estimé entre 10m et 22m passe actuellement à 435,157km de la #terre (soit 1.13 fois la distance terre-lune) à une vitesse de 8.93km/s (32153km/h). Cet objet spacial s'est éloigné de 81km depuis hier 🟠
+[18-00-05] (EVENT) PNG : CREATING PNG
+[18-00-05] (DATA) PNG : PNG './pngs/result_28-04-2023_18-00-03.png' CREATED
+[18-00-05] (EVENT) TWEET : POST INIT
+[18-00-05] (ERROR) TWEET : POST INIT FAILED WITH ERROR : {'errors': [{'message': 'Could not authenticate you', 'code': 32}]}
